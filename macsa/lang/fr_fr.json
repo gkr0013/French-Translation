@@ -1,0 +1,161 @@
+{
+"itemGroup.mcsa": "MC Story Mode Armors",
+"itemGroup.mcsa.group": "MC Story Mode Armors",
+
+"item.mcsa.adamantium_impervium_helmet": "Casque en Adamantite Impervium",
+"item.mcsa.adamantium_impervium_chestplate": "Plastron en Adamantite Impervium",
+"item.mcsa.adamantium_impervium_leggings": "Jambières en Adamantite Impervium",
+"item.mcsa.adamantium_impervium_boots": "Bottes en Adamantite Impervium",
+
+"item.mcsa.adamantium_impervium.effect.tooltip_1": "Effet de l'ensemble d'armure : Garde Adamantine",
+
+"item.mcsa.adamantium_impervium.tooltip_1": "L'Adamantite Impervium ! Encore plus difficile",
+"item.mcsa.adamantium_impervium.tooltip_2": "à endommager qu'à prononcer !",
+
+"item.mcsa.champion_petra_helmet": "Casque du Champion Petra",
+"item.mcsa.champion_petra_chestplate": "Plastron du Champion Petra",
+"item.mcsa.champion_petra_leggings": "Jambières du Champion Petra",
+"item.mcsa.champion_petra_boots": "Bottes du Champion Petra",
+
+"item.mcsa.dragonsbane_helmet": "Casque Tueur de Dragons",
+"item.mcsa.dragonsbane_chestplate": "Plastron Tueur de Dragons",
+"item.mcsa.dragonsbane_leggings": "Jambières Tueur de Dragons",
+"item.mcsa.dragonsbane_boots": "Bottes Tueur de Dragons",
+
+"item.mcsa.dragonsbane.effect.tooltip_1": "Effet de l'ensemble d'armure : Tueur de Dragons",
+
+"item.mcsa.ellegaard_helmet": "Casque d'Ellegaard",
+"item.mcsa.ellegaard_chestplate": "Plastron d'Ellegaard",
+"item.mcsa.ellegaard_leggings": "Jambières d'Ellegaard",
+"item.mcsa.ellegaard_boots": "Bottes d'Ellegaard",
+
+"item.mcsa.ender_defender_helmet": "Casque du Défenseur de l'Ender",
+"item.mcsa.ender_defender_chestplate": "Plastron du Défenseur de l'Ender",
+"item.mcsa.ender_defender_leggings": "Jambières du Défenseur de l'Ender",
+"item.mcsa.ender_defender_boots": "Bottes du Défenseur de l'Ender",
+
+"item.mcsa.ender_defender.effect.tooltip_1": "Effet de l'ensemble d'armure : Libérateur de l'End",
+
+"item.mcsa.ender_defender.tooltip_1": "Le Défenseur de l'Ender ! Très résistant contre",
+"item.mcsa.ender_defender.tooltip_2": "l'attaque d'un Enderman.",
+
+"item.mcsa.enderman_soren_helmet": "Casque de l'Enderman de Soren",
+"item.mcsa.enderman_soren_chestplate": "Plastron de l'Enderman de Soren",
+"item.mcsa.enderman_soren_leggings": "Jambières de l'Enderman de Soren",
+"item.mcsa.enderman_soren_boots": "Bottes de l'Enderman de Soren",
+
+"item.mcsa.gabriel_helmet": "Casque de Gabriel",
+"item.mcsa.gabriel_chestplate": "Plastron de Gabriel",
+"item.mcsa.gabriel_leggings": "Jambières de Gabriel",
+"item.mcsa.gabriel_boots": "Bottes de Gabriel",
+
+"item.mcsa.golden_goliath_helmet": "Casque du Goliath Doré",
+"item.mcsa.golden_goliath_chestplate": "Plastron du Goliath Doré",
+"item.mcsa.golden_goliath_leggings": "Jambières du Goliath Doré",
+"item.mcsa.golden_goliath_boots": "Bottes du Goliath Doré",
+
+"item.mcsa.golden_goliath.effect.tooltip_1": "Effet de l'ensemble d'armure : Louange au Soleil",
+
+"item.mcsa.golden_goliath.tooltip_1": "Le Goliath Doré ! Aussi brillant et",
+"item.mcsa.golden_goliath.tooltip_2": "puissant que le Soleil lui-même !",
+
+"item.mcsa.golden_goliath_circuitry_helmet": "Casque du Goliath Doré avec Circuitry",
+"item.mcsa.golden_goliath_circuitry_chestplate": "Plastron du Goliath Doré avec Circuitry",
+"item.mcsa.golden_goliath_circuitry_leggings": "Jambières du Goliath Doré avec Circuitry",
+"item.mcsa.golden_goliath_circuitry_boots": "Bottes du Goliath Doré avec Circuitry",
+
+"item.mcsa.golden_goliath_circuitry.tooltip_1": "C'est une ombre de sa gloire passée.",
+
+"item.mcsa.harpers_headset_helmet": "Casque de Harper",
+
+"item.mcsa.ivor_helmet": "Couronne d'Ivor",
+"item.mcsa.ivor_chestplate": "Plastron d'Ivor",
+"item.mcsa.ivor_leggings": "Jambières d'Ivor",
+"item.mcsa.ivor_boots": "Bottes d'Ivor",
+
+"item.mcsa.lukas_helmet": "Lunettes de Lukas",
+"item.mcsa.lukas_chestplate": "Plastron de Lukas",
+"item.mcsa.lukas_leggings": "Jambières de Lukas",
+"item.mcsa.lukas_boots": "Bottes de Lukas",
+
+"item.mcsa.magnus_helmet": "Casque de Magnus",
+"item.mcsa.magnus_chestplate": "Plastron de Magnus",
+"item.mcsa.magnus_leggings": "Jambières de Magnus",
+"item.mcsa.magnus_boots": "Bottes de Magnus",
+
+"item.mcsa.ninja_ivor_helmet": "Masque de Ninja d'Ivor",
+"item.mcsa.ninja_ivor_chestplate": "Plastron de Ninja d'Ivor",
+"item.mcsa.ninja_ivor_leggings": "Jambières de Ninja d'Ivor",
+"item.mcsa.ninja_ivor_boots": "Bottes de Ninja d'Ivor",
+
+"item.mcsa.olivia_helmet": "Casque d'Olivia",
+"item.mcsa.olivia_chestplate": "Plastron d'Olivia",
+"item.mcsa.olivia_leggings": "Jambières d'Olivia",
+"item.mcsa.olivia_boots": "Bottes d'Olivia",
+
+"item.mcsa.petra_helmet": "Casque de Petra",
+"item.mcsa.petra_chestplate": "Plastron de Petra",
+"item.mcsa.petra_leggings": "Jambières de Petra",
+"item.mcsa.petra_boots": "Bottes de Petra",
+
+"item.mcsa.prismarine_soldier_helmet": "Casque de Soldat Prismarine",
+"item.mcsa.prismarine_soldier_chestplate": "Plastron de Soldat Prismarine",
+"item.mcsa.prismarine_soldier_leggings": "Jambières de Soldat Prismarine",
+"item.mcsa.prismarine_soldier_boots": "Bottes de Soldat Prismarine",
+
+"item.mcsa.redstone_riot_helmet": "Casque de l'Émeute Redstone",
+"item.mcsa.redstone_riot_chestplate": "Plastron de l'Émeute Redstone",
+"item.mcsa.redstone_riot_leggings": "Jambières de l'Émeute Redstone",
+"item.mcsa.redstone_riot_boots": "Bottes de l'Émeute Redstone",
+
+"item.mcsa.redstone_riot.effect.tooltip_1": "Effet de l'ensemble d'armure : Ingénierie Redstone",
+
+"item.mcsa.redstone_riot.tooltip_1": "L'Émeute Redstone ! Conçue pour être",
+"item.mcsa.redstone_riot.tooltip_2": "virtuellement indestructible !",
+
+"item.mcsa.shield_of_infinity_helmet": "Casque du Bouclier de l'Infini",
+"item.mcsa.shield_of_infinity_chestplate": "Plastron du Bouclier de l'Infini",
+"item.mcsa.shield_of_infinity_leggings": "Jambières du Bouclier de l'Infini",
+"item.mcsa.shield_of_infinity_boots": "Bottes du Bouclier de l'Infini",
+
+"item.mcsa.shield_of_infinity.effect.tooltip_1": "Effet de l'ensemble d'armure : Défense Infinie",
+
+"item.mcsa.shield_of_infinity.tooltip_1": "Le Bouclier de l'Infini ! En grande partie",
+"item.mcsa.shield_of_infinity.tooltip_2": "parce que c'est incroyablement cool !",
+
+"item.mcsa.soren_helmet": "Chapeau de Soren",
+"item.mcsa.soren_chestplate": "Plastron de Soren",
+"item.mcsa.soren_leggings": "Jambières de Soren",
+"item.mcsa.soren_boots": "Bottes de Soren",
+
+"item.mcsa.star_shield_helmet": "Casque du Bouclier Étoilé",
+"item.mcsa.star_shield_chestplate": "Plastron du Bouclier Étoilé",
+"item.mcsa.star_shield_leggings": "Jambières du Bouclier Étoilé",
+"item.mcsa.star_shield_boots": "Bottes du Bouclier Étoilé",
+
+"item.mcsa.star_shield.effect.tooltip_1": "Effet de l'ensemble d'armure : Protection Universelle",
+
+"item.mcsa.star_shield.tooltip_1": "Le Bouclier Étoilé ! Aucun objet de l'",
+"item.mcsa.star_shield.tooltip_2": "univers ne peut le pénétrer !",
+
+"item.mcsa.swordbreaker_helmet": "Casque Brise-Épée",
+"item.mcsa.swordbreaker_chestplate": "Plastron Brise-Épée",
+"item.mcsa.swordbreaker_leggings": "Jambières Brise-Épée",
+"item.mcsa.swordbreaker_boots": "Bottes Brise-Épée",
+
+"item.mcsa.sword_breaker.effect.tooltip_1": "Effet de l'ensemble d'armure : Brise-Lame",
+
+"item.mcsa.swordbreaker.tooltip_1": "Le Brise-Épée ! Toutes sauf les",
+"item.mcsa.swordbreaker.tooltip_2": "armes les plus puissantes se briseraient",
+"item.mcsa.swordbreaker.tooltip_3": "contre lui !",
+
+"item.mcsa.tim_helmet": "Chapeau de Tim",
+"item.mcsa.tim_chestplate": "Plastron de Tim",
+"item.mcsa.tim_leggings": "Jambières de Tim",
+"item.mcsa.tim_boots": "Bottes de Tim",
+
+"block.mcsa.white_pumpkin": "Citrouille Blanche",
+"block.mcsa.carved_white_pumpkin": "Citrouille Blanche Sculptée",
+
+"item.mcsa.gap.tooltip_": " "
+}

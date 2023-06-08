@@ -1,0 +1,107 @@
+{
+  "block.farmersrespite.kettle": "Bouilloire",
+  
+  "block.farmersrespite.rose_hip_pie": "Tarte à l'églantier",
+  "block.farmersrespite.coffee_cake": "Gâteau au café",
+  
+  "block.farmersrespite.small_tea_bush": "Graines de thé",
+  "block.farmersrespite.wild_tea_bush": "Arbuste à thé sauvage",
+  "block.farmersrespite.tea_bush": "Buisson à thé",
+  
+  "block.farmersrespite.coffee_bush": "Grains de café",
+  "block.farmersrespite.coffee_bush_top": "Coffee Bush",
+  "block.farmersrespite.coffee_stem": "Tige de café",
+  "block.farmersrespite.coffee_stem_double": "Tige de café",
+  "block.farmersrespite.coffee_stem_middle": "Tige de café",
+  
+  "block.farmersrespite.candle_coffee_cake": "Gâteau aux bougies au café",
+  "block.farmersrespite.white_candle_coffee_cake": "Gâteau au café aux bougies blanches",
+  "block.farmersrespite.orange_candle_coffee_cake": "Gâteau au café à la bougie orange",
+  "block.farmersrespite.magenta_candle_coffee_cake": "Gâteau au café aux bougies magenta",
+  "block.farmersrespite.light_blue_candle_coffee_cake": "Gâteau au café à la bougie bleu clair",
+  "block.farmersrespite.yellow_candle_coffee_cake": "Gâteau au café à la bougie jaune",
+  "block.farmersrespite.lime_candle_coffee_cake": "Gâteau au café à la bougie au citron vert",
+  "block.farmersrespite.pink_candle_coffee_cake": "Gâteau au café à la bougie rose",
+  "block.farmersrespite.gray_candle_coffee_cake": "Gâteau au café aux bougies grises",
+  "block.farmersrespite.light_gray_candle_coffee_cake": "Gâteau au café à la bougie gris clair",
+  "block.farmersrespite.cyan_candle_coffee_cake": "Gâteau au café à la bougie cyan",
+  "block.farmersrespite.purple_candle_coffee_cake": "Gâteau au café bougie violette",
+  "block.farmersrespite.blue_candle_coffee_cake": "Gâteau au café à la bougie bleue",
+  "block.farmersrespite.brown_candle_coffee_cake": "Gâteau au café aux bougies brunes",
+  "block.farmersrespite.green_candle_coffee_cake": "Gâteau au café aux bougies vertes",
+  "block.farmersrespite.red_candle_coffee_cake": "Gâteau au café à la bougie rouge",
+  "block.farmersrespite.black_candle_coffee_cake": "Gâteau au café à la bougie noire",
+  
+  "block.farmersrespite.potted_coffee_bush": "Caféier en pot",
+  "block.farmersrespite.potted_tea_bush": "Arbuste à thé en pot",
+  "block.farmersrespite.potted_wild_tea_bush": "Arbuste à thé sauvage en pot",
+  
+  "block.farmersrespite.wither_roots": "Des racines fanées",
+  "block.farmersrespite.wither_roots_plant": "Plante à racines défraîchies",
+
+  "item.farmersrespite.green_tea_leaves": "Feuilles de thé vert",
+  "item.farmersrespite.yellow_tea_leaves": "Feuilles de thé jaunes",
+  "item.farmersrespite.black_tea_leaves": "Feuilles de thé noir",
+  "item.farmersrespite.rose_hips": "Cynorrhodons",
+  "item.farmersrespite.tea_seeds": "Graines de thé",
+  "item.farmersrespite.green_tea": "Thé vert",
+  "item.farmersrespite.yellow_tea": "Thé jaune",
+  "item.farmersrespite.black_tea": "Thé noir",
+  "item.farmersrespite.rose_hip_tea": "Thé à la rose musquée",
+  "item.farmersrespite.dandelion_tea": "Thé de pissenlit",
+  "item.farmersrespite.purulent_tea": "Thé purulent",
+  "item.farmersrespite.rose_hip_pie_slice": "Tranche de tarte à la rose musquée",
+  "item.farmersrespite.green_tea_cookie": "Biscuit au thé vert",
+  "item.farmersrespite.nether_wart_sourdough": "Levain verruqueux du Nether",
+  "item.farmersrespite.black_cod": "morue noire",
+  "item.farmersrespite.tea_curry": "Thé Curry",
+  "item.farmersrespite.coffee_berries": "Baies de café",
+  "item.farmersrespite.coffee": "Café",
+  "item.farmersrespite.coffee_cake_slice": "Tranche de gâteau au café",
+  "item.farmersrespite.blazing_chili": "Piment flamboyant",
+
+  "item.farmersrespite.long_green_tea": "Thé vert",
+  "item.farmersrespite.long_yellow_tea": "Thé jaune",
+  "item.farmersrespite.long_black_tea": "Thé noir",
+  "item.farmersrespite.long_dandelion_tea": "Thé de pissenlit",
+  "item.farmersrespite.long_coffee": "Café",
+  "item.farmersrespite.long_apple_cider": "Cidre de pomme",
+
+  "item.farmersrespite.strong_green_tea": "Thé vert",
+  "item.farmersrespite.strong_yellow_tea": "Thé jaune",
+  "item.farmersrespite.strong_black_tea": "Thé noir",
+  "item.farmersrespite.strong_purulent_tea": "Thé purulent",
+  "item.farmersrespite.strong_rose_hip_tea": "Thé à la rose musquée",
+  "item.farmersrespite.strong_coffee": "Café",
+  "item.farmersrespite.strong_apple_cider": "Cidre de pomme",
+  "item.farmersrespite.strong_melon_juice": "Jus de melon",
+
+  "farmersdelight.tooltip.purulent_tea": "Prolonge 1 effet de 15 secondes",
+  "farmersdelight.tooltip.strong_purulent_tea": "Prolonge 1 effet de 30 secondes",
+  "farmersdelight.tooltip.rose_hip_tea": "Soigne 1 cœur",
+  "farmersdelight.tooltip.strong_rose_hip_tea": "Soigne 2 cœurs",
+  "farmersdelight.tooltip.strong_melon_juice": "Santé instantanée",
+
+  "farmersrespite.container.kettle": "Bouilloire",
+  "farmersrespite.container.kettle.served_on": "Servi le : %s",
+  "farmersrespite.container.kettle.not_heated": "Besoin de chaleur par le bas",
+  "farmersrespite.container.kettle.heated": "Chauffé",
+  "farmersrespite.container.kettle.no_water": "Pas d'eau",
+  "farmersrespite.container.kettle.has_single_water": "Contient 1 verre d'eau",
+  "farmersrespite.container.kettle.has_many_water": "Contient %s verres d'eau",
+
+  "farmersrespite.tooltip.kettle.empty": "Vide",
+  "farmersrespite.tooltip.kettle.single_serving": "Contient 1 portion de :",
+  "farmersrespite.tooltip.kettle.many_servings": "Contient %s portions de :",
+
+  "farmersrespite.subtitles.kettle.whistle": "La bouilloire siffle",
+
+  "effect.farmersrespite.caffeinated": "Cafeiné",
+
+  "farmersrespite.rei.brewing": "Brassage",
+  "farmersrespite.rei.brewing.noWater": "Pas besoin d'eau",
+  "farmersrespite.rei.brewing.needWater": "Nécessite 1 verre d'eau",
+
+  "itemGroup.farmersrespite.group": "Farmer's Respite"
+
+}

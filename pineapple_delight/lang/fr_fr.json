@@ -1,0 +1,14 @@
+{
+"itemGroup.pineapple_delight.pineapple": "Délice à l'ananas",
+"item.pineapple_delight.pineapple": "Ananas",
+"item.pineapple_delight.pineapple_side": "Tranches d'ananas",
+"item.pineapple_delight.pineapple_pie_side": "Part de tarte à l'ananas",
+"item.pineapple_delight.pineapple_juice": "Jus d'ananas",
+"item.pineapple_delight.pineapple_fried_rice": "Riz sauté à l'ananas",
+"item.pineapple_delight.pineapple_milk_shake": "Milkshake à l'ananas",
+"item.pineapple_delight.pineapple_ice_cream": "Crème glacée à l'ananas",
+
+"block.pineapple_delight.pineapple_pie": "Tarte à l'ananas",
+"block.pineapple_delight.pineapple_wild_crop": "Culture sauvage d'ananas",
+"block.pineapple_delight.pineapple_crop": "Culture d'ananas"
+}

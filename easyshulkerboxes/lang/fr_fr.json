@@ -1,0 +1,9 @@
+{
+"item.container.tooltip.hold": "Maintenir",
+"item.container.tooltip.press": "Appuyer",
+"item.container.tooltip.revealContents": "%s %s pour révéler le contenu",
+"key.categories.easyshulkerboxes": "Boîtes à Shulker Faciles",
+"key.toggleCarriedItemTooltips": "Activer/désactiver les infobulles des objets transportés",
+"key.toggleSelectedItemTooltips": "Activer/désactiver les infobulles de l'objet sélectionné",
+"key.toggleVisualItemContents": "Activer/désactiver l'affichage visuel du contenu de l'objet"
+}

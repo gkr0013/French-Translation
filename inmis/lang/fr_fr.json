@@ -1,0 +1,39 @@
+{
+"itemGroup.inmis.backpack": "Inmis",
+
+"ui.inmis.backpack": "Sac à dos",
+
+"item.inmis.baby_backpack": "Sac à dos pour bébé",
+"item.inmis.ender_pouch": "Pochette de l'Ender",
+
+"item.inmis.frayed_backpack": "Sac à dos effiloché",
+"item.inmis.plated_backpack": "Sac à dos renforcé",
+"item.inmis.gilded_backpack": "Sac à dos doré",
+"item.inmis.bejeweled_backpack": "Sac à dos orné de diamant",
+"item.inmis.blazing_backpack": "Sac à dos flamboyant",
+"item.inmis.withered_backpack": "Sac à dos de Wither",
+"item.inmis.endless_backpack": "Sac à dos de l'End",
+
+"inmis.advancement.baby_backpack.title": "Sac à surprises",
+"inmis.advancement.baby_backpack.description": "Parfait pour les cadeaux de fête !",
+"inmis.advancement.ender_pouch.title": "Accès de l'Ender",
+"inmis.advancement.ender_pouch.description": "En mettant la main à l'intérieur de ce sac, il apparaît dans votre coffre de l'Ender...",
+
+"inmis.advancement.frayed_backpack.title": "Début du sac à dos",
+"inmis.advancement.frayed_backpack.description": "Ce n'est pas grand-chose, mais c'est à moi ! Fabriquez un sac à dos effiloché pour étendre votre espace d'inventaire.",
+"inmis.advancement.plated_backpack.title": "Montée en puissance",
+"inmis.advancement.plated_backpack.description": "Entourez votre sac à dos effiloché de lingots de fer pour étendre ses capacités de stockage.",
+"inmis.advancement.gilded_backpack.title": "Extensions dorées",
+"inmis.advancement.gilded_backpack.description": "Améliorez votre sac à dos renforcé en le recouvrant d'or. Brillant !",
+"inmis.advancement.bejeweled_backpack.title": "Couvre-moi de pierres précieuses",
+"inmis.advancement.bejeweled_backpack.description": "Collez quelques pierres précieuses rares sur votre sac à dos doré pour le rendre encore plus brillant !",
+"inmis.advancement.blazing_backpack.title": "Alternatives flamboyantes",
+"inmis.advancement.blazing_backpack.description": "Recouvrez votre sac à dos de Netherite pour le rendre insensible au feu et à la lave.",
+"inmis.advancement.withered_backpack.title": "Expansion de Wither",
+"inmis.advancement.withered_backpack.description": "Améliorez votre sac à dos brillant avec un trophée obtenu auprès du roi désolé.",
+"inmis.advancement.endless_backpack.title": "L'End",
+"inmis.advancement.endless_backpack.description": "Obtenez le sac à dos ultime, alimenté par la puissance de l'End",
+
+"category.inmis.keybindings": "Inmis",
+"key.inmis.open_backpack": "Ouvrir le sac à dos"
+}

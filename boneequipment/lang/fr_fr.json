@@ -1,0 +1,17 @@
+{
+"itemGroup.boneequipment.tab": "Équipement en os",
+
+"item.boneequipment.bone_helmet": "Casque en os",
+"item.boneequipment.bone_chestplate": "Plastron en os",
+"item.boneequipment.bone_leggings": "Jambières en os",
+"item.boneequipment.bone_boots": "Bottes en os",
+
+"item.boneequipment.bone_pickaxe": "Pioche en os",
+"item.boneequipment.bone_axe": "Hache en os",
+"item.boneequipment.bone_hoe": "Houe en os",
+"item.boneequipment.bone_shovel": "Pelle en os",
+
+"item.boneequipment.bone_sword": "Épée en os",
+
+"item.boneequipment.bone_horse_armor": "Armure pour cheval en os"
+}

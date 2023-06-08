@@ -1,0 +1,22 @@
+{
+"entity.goblintraders.goblin_trader": "Marchand gobelin",
+"entity.goblintraders.vein_goblin_trader": "Marchand gobelin de Vein",
+"subtitle.goblintraders.goblin_trader.annoyed_grunt": "Grognement agacé",
+"subtitle.goblintraders.goblin_trader.idle_grunt": "Grognement de repos",
+"item.goblintraders.goblin_trader_spawn_egg": "Œuf d'apparition du marchand gobelin",
+"item.goblintraders.vein_goblin_trader_spawn_egg": "Œuf d'apparition du marchand gobelin de Vein",
+"stat.goblintraders.trade_with_goblin": "A échangé avec des gobelins",
+"mob_spawner.type.zombie": "Zombie",
+"mob_spawner.type.skeleton": "Squelette",
+"mob_spawner.type.creeper": "Creeper",
+"item.minecraft.potion.effect.haste": "Potion de hâte",
+"item.minecraft.potion.effect.absorption": "Potion d'absorption",
+"item.minecraft.potion.effect.dolphins_grace": "Potion de grâce des dauphins",
+"item.minecraft.splash_potion.effect.haste": "Potion éclaboussante de hâte",
+"item.minecraft.splash_potion.effect.absorption": "Potion éclaboussante d'absorption",
+"item.minecraft.splash_potion.effect.dolphins_grace": "Potion éclaboussante de grâce des dauphins",
+"item.minecraft.lingering_potion.effect.haste": "Potion persistante de hâte",
+"item.minecraft.lingering_potion.effect.absorption": "Potion persistante d'absorption",
+"item.minecraft.lingering_potion.effect.dolphins_grace": "Potion persistante de grâce des dauphins",
+"simpleconfig.goblintraders.entities": "Entités"
+}

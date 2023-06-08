@@ -1,0 +1,22 @@
+{
+  "container.reinfchest.copperChest": "Coffre en cuivre",
+  "container.reinfchest.ironChest": "Coffre en fer",
+  "container.reinfchest.goldChest": "Coffre en or",
+  "container.reinfchest.diamondChest": "Coffre en diamant",
+  "container.reinfchest.netheriteChest": "Coffre en Netherite",
+  "container.reinfchest.copperChestDouble": "Grand coffre en cuivre",
+  "container.reinfchest.ironChestDouble": "Grand coffre en fer",
+  "container.reinfchest.goldChestDouble": "Grand coffre en or",
+  "container.reinfchest.diamondChestDouble": "Grand coffre en diamant",
+  "container.reinfchest.netheriteChestDouble": "Grand coffre en Netherite",
+  "block.reinfchest.copper_chest": "Coffre en cuivre",
+  "block.reinfchest.iron_chest": "Coffre en fer",
+  "block.reinfchest.gold_chest": "Coffre en or",
+  "block.reinfchest.diamond_chest": "Coffre en diamant",
+  "block.reinfchest.netherite_chest": "Coffre en netherite",
+  "stat.reinfchest.open_copper_chest": "Coffres en cuivre ouverts",
+  "stat.reinfchest.open_iron_chest": "Coffres en fer ouverts",
+  "stat.reinfchest.open_gold_chest": "Coffres en or ouverts",
+  "stat.reinfchest.open_diamond_chest": "Coffres en diamant ouverts",
+  "stat.reinfchest.open_netherite_chest": "Coffres en Netherite ouverts"
+}

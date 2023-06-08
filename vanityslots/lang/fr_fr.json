@@ -1,0 +1,16 @@
+{
+"item.vanityslots.familiar_wig": "Perruque familière",
+"item.vanityslots.familiar_shirt": "Chemise familière",
+"item.vanityslots.familiar_pants": "Pantalon familier",
+"item.vanityslots.familiar_sneakers": "Baskets familières",
+"item.vanityslots.glowing_leather": "Cuir lumineux",
+"trinkets.slot.head.vanity": "Tête de vanité",
+"trinkets.slot.chest.vanity": "Torse de vanité",
+"trinkets.slot.legs.vanity": "Jambes de vanité",
+"trinkets.slot.feet.vanity": "Pieds de vanité",
+"title.vanityslots.config": "Configuration des emplacements de vanité",
+"text.autoconfig.vanityslots.option.itemBlacklist": "Liste noire des armures",
+"text.autoconfig.vanityslots.option.itemBlacklist.@Tooltip": "Objets qui ne devraient pas être autorisés dans les emplacements de vanité.",
+"text.autoconfig.vanityslots.option.disallowBinding": "Interdire la malédiction de l'attachement",
+"text.autoconfig.vanityslots.option.disallowBinding.@Tooltip": "Empêche les objets avec la malédiction de l'attachement d'être placés dans les emplacements de vanité."
+}

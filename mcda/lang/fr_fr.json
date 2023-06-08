@@ -1,0 +1,831 @@
+{
+"itemGroup.mcda.armor":                         "MC Dungeons Armors",
+
+"item.mcda.archers_helmet": "Capuche de l'archer",
+"item.mcda.archers_chestplate": "Gilet de l'archer",
+"item.mcda.archers_leggings": "Pantalon de l'archer",
+"item.mcda.archers_boots": "Ceinture de l'archer",
+
+"item.mcda.archers.tooltip_1": "Préféré par les guerriers modestes, c'est bon",
+"item.mcda.archers.tooltip_2": "marché à fabriquer et arrête toujours une lame.",
+
+"item.mcda.archers.effect.tooltip_1": "Talent de l'archer",
+
+"item.mcda.beehive_armor_helmet": "Casque de ruche",
+"item.mcda.beehive_armor_chestplate": "Plastron de ruche",
+"item.mcda.beehive_armor_leggings": "Jambières de ruche",
+"item.mcda.beehive_armor_boots": "Tassettes de ruche",
+
+"item.mcda.beehive_armor.tooltip_1": "L'armure de ruche bourdonne avec la",
+"item.mcda.beehive_armor.tooltip_2": "puissance concentrée de d'innombrables abeilles.",
+
+"item.mcda.beehive_armor.effect.tooltip_1": "Ruche bourdonnante",
+
+"item.mcda.beenest_armor_helmet": "Casque de ruche d'abeilles",
+"item.mcda.beenest_armor_chestplate": "Plastron de ruche d'abeilles",
+"item.mcda.beenest_armor_leggings": "Jambières de ruche d'abeilles",
+"item.mcda.beenest_armor_boots": "Tassettes de ruche d'abeilles",
+
+"item.mcda.beenest_armor.tooltip_1": "Il semble toujours y avoir un léger",
+"item.mcda.beenest_armor.tooltip_2": "bourdonnement autour de l'armure de ruche. Ou",
+"item.mcda.beenest_armor.tooltip_3": "peut-être que le bourdonnement vient de l'intérieur ?",
+
+"item.mcda.beenest_armor.effect.tooltip_1": "Ruche bourdonnante",
+
+"item.mcda.hunters_chestplate": "Gilet du chasseur",
+
+"item.mcda.hunters.tooltip_1": "Ce n'est peut-être pas adapté à un chevalier,",
+"item.mcda.hunters.tooltip_2": "mais cela arrêtera une lame.",
+
+"item.mcda.splendid_robe_chestplate": "Robe splendide",
+"item.mcda.splendid_robe_leggings": "Pantalon splendide",
+
+"item.mcda.splendid_robe.tooltip_1": "Cette robe distinguée",
+"item.mcda.splendid_robe.tooltip_2": "est portée par les guerriers Illagers endurcis",
+"item.mcda.splendid_robe.tooltip_3": "qui protègent l'Arch-Illager.",
+
+"item.mcda.splendid_robe.effect.tooltip_1": "Attaque splendide",
+
+"item.mcda.battle_robe_chestplate": "Robe de combat",
+"item.mcda.battle_robe_leggings": "Pantalon de combat",
+
+"item.mcda.battle_robe.tooltip_1": "Porté par les distingués Illagers",
+"item.mcda.battle_robe.tooltip_2": "Ensorceleurs de la cour de l'Arch-Illager.",
+
+"item.mcda.champions_armor_helmet": "Casque du champion",
+"item.mcda.champions_armor_chestplate": "Plastron du champion",
+"item.mcda.champions_armor_leggings": "Jambières du champion",
+"item.mcda.champions_armor_boots": "Genouillères du champion",
+
+"item.mcda.champions_armor.tooltip_1": "Donné aux champions de",
+"item.mcda.champions_armor.tooltip_2": "l'Overworld par les villageois libres",
+"item.mcda.champions_armor.tooltip_3": "en signe de reconnaissance pour de nombreuses",
+"item.mcda.champions_armor.tooltip_4": "années de protection et d'assistance.",
+"item.mcda.champions_armor.tooltip_5": "La marque d'un véritable héros.",
+
+"item.mcda.heros_armor_helmet": "Casque du héros",
+"item.mcda.heros_armor_chestplate": "Plastron du héros",
+"item.mcda.heros_armor_leggings": "Jambières du héros",
+"item.mcda.heros_armor_boots": "Genouillères du héros",
+
+"item.mcda.heros_armor.tooltip_1": "Seulement donné aux héros de la plus haute qualité,",
+"item.mcda.heros_armor.tooltip_2": "cette armure est un précieux cadeau",
+"item.mcda.heros_armor.tooltip_3": "des villageois.",
+
+"item.mcda.heros_armor.effect.tooltip_1": "Héros du village",
+
+"item.mcda.titans_shroud_helmet": "Casque de l'enveloppe du titan",
+"item.mcda.titans_shroud_chestplate": "Plastron de l'enveloppe du titan",
+"item.mcda.titans_shroud_leggings": "Jambières de l'enveloppe du titan",
+"item.mcda.titans_shroud_boots": "Bottes de l'enveloppe du titan",
+
+"item.mcda.titans_shroud.tooltip_1": "Cette armure est passée entre les mains du mal depuis des générations.",
+"item.mcda.titans_shroud.tooltip_2": "",
+
+"item.mcda.titans_shroud.effect.tooltip_1": "Enveloppe du titan",
+
+"item.mcda.dark_armor_helmet": "Casque sombre",
+"item.mcda.dark_armor_chestplate": "Plastron sombre",
+"item.mcda.dark_armor_leggings": "Jambières sombres",
+"item.mcda.dark_armor_boots": "Bottes sombres",
+
+"item.mcda.dark_armor.tooltip_1": "Cette armure, fabriquée dans les profondeurs les plus sombres de la Forge Ardente, est portée par la garde royale des Illagers.",
+
+"item.mcda.royal_guard_armor_helmet": "Casque de la garde royale",
+"item.mcda.royal_guard_armor_chestplate": "Plastron de la garde royale",
+"item.mcda.royal_guard_armor_leggings": "Jambières de la garde royale",
+"item.mcda.royal_guard_armor_boots": "Bottes de la garde royale",
+
+"item.mcda.royal_guard_armor.tooltip_1": "Cette armure, fabriquée dans les profondeurs les plus sombres de la Forge Ardente, est portée par la garde royale des Illagers.",
+
+"item.mcda.evocation_robe_helmet": "Chapeau d'évocation",
+"item.mcda.evocation_robe_chestplate": "Robe d'évocation",
+"item.mcda.evocation_robe_leggings": "Pantalon d'évocation",
+
+"item.mcda.evocation_robe.tooltip_1": "De puissantes runes magiques sont tissées dans le tissu de ces robes, leurs origines et leurs pouvoirs sont enveloppés de mystère.",
+"item.mcda.evocation_robe.tooltip_2": "Elles sont tissées dans le tissu de ces robes.",
+"item.mcda.evocation_robe.tooltip_3": "Leurs origines et leurs pouvoirs sont enveloppés de mystère.",
+"item.mcda.evocation_robe.tooltip_4": "et leurs pouvoirs sont enveloppés",
+"item.mcda.evocation_robe.tooltip_5": "de mystère."
+
+"item.mcda.ember_robe_helmet": "Chapeau d'embrasement",
+"item.mcda.ember_robe_chestplate": "Robe d'embrasement",
+"item.mcda.ember_robe_leggings": "Pantalon d'embrasement",
+
+"item.mcda.ember_robe.tooltip_1": "Une robe créée par les Evokers Illagers pour se distinguer de la garde commune.",
+
+"item.mcda.ember_robe.effect.tooltip_1": "Saut d'embrasement",
+
+"item.mcda.verdant_robe_helmet": "Chapeau verdoyant",
+"item.mcda.verdant_robe_chestplate": "Robe verdoyante",
+"item.mcda.verdant_robe_leggings": "Pantalon verdoyant",
+
+"item.mcda.verdant_robe.tooltip_1": "Ceux qui portent cette robe découvrent bientôt qu'ils peuvent communiquer avec plus d'âmes que jamais auparavant.",
+
+"item.mcda.verdant_robe.effect.tooltip_1": "Présence sylvestre",
+
+"item.mcda.grim_armor_helmet": "Casque sinistre",
+"item.mcda.grim_armor_chestplate": "Plastron sinistre",
+"item.mcda.grim_armor_leggings": "Jambières sinistres",
+"item.mcda.grim_armor_boots": "Bottes sinistres",
+
+"item.mcda.grim_armor.tooltip_1": "Cette armure inspire une sensation de crainte à celui qui la porte et à ceux qui l'affrontent en combat.",
+
+"item.mcda.wither_armor_helmet": "Casque du Wither",
+"item.mcda.wither_armor_chestplate": "Plastron du Wither",
+"item.mcda.wither_armor_leggings": "Jambières du Wither",
+"item.mcda.wither_armor_boots": "Bottes du Wither",
+
+"item.mcda.wither_armor.tooltip_1": "Fabriqué avec les parties des ennemis vaincus, il a été conçu pour terrifier les ennemis du porteur.",
+"item.mcda.wither_armor.tooltip_2": "Fabriqué avec les parties des ennemis vaincus, il a été conçu pour terrifier les ennemis du porteur.",
+"item.mcda.wither_armor.tooltip_3": "Fabriqué avec les parties des ennemis vaincus, il a été conçu pour terrifier les ennemis du porteur.",
+
+"item.mcda.wither_armor.effect.tooltip_1": "Desséché",
+
+"item.mcda.guards_armor_helmet": "Casque du Garde",
+"item.mcda.guards_armor_chestplate": "Plastron du Garde",
+"item.mcda.guards_armor_leggings": "Jambières du Garde",
+"item.mcda.guards_armor_boots": "Cuissards du Garde",
+
+"item.mcda.guards_armor.tooltip_1": "Une armure bon marché fabriquée en masse, elle est couramment vue dans les villages de l'Overworld.",
+"item.mcda.guards_armor.tooltip_2": "Une armure bon marché fabriquée en masse, elle est couramment vue dans les villages de l'Overworld.",
+"item.mcda.guards_armor.tooltip_3": "Une armure bon marché fabriquée en masse, elle est couramment vue dans les villages de l'Overworld.",
+
+"item.mcda.curious_armor_helmet": "Casque Curieux",
+"item.mcda.curious_armor_chestplate": "Plastron Curieux",
+"item.mcda.curious_armor_leggings": "Jambières Curieuses",
+"item.mcda.curious_armor_boots": "Cuissards Curieux",
+
+"item.mcda.curious_armor.tooltip_1": "Personne ne sait d'où vient cette étrange armure, mais elle vous semble familière.",
+"item.mcda.curious_armor.tooltip_2": "Personne ne sait d'où vient cette étrange armure, mais elle vous semble familière.",
+"item.mcda.curious_armor.tooltip_3": "Personne ne sait d'où vient cette étrange armure, mais elle vous semble familière.",
+
+"item.mcda.curious_armor.effect.tooltip_1": "Téléportation Curieuse",
+
+"item.mcda.mercenary_armor_helmet": "Casque de Mercenaire",
+"item.mcda.mercenary_armor_chestplate": "Plastron de Mercenaire",
+"item.mcda.mercenary_armor_leggings": "Jambières de Mercenaire",
+"item.mcda.mercenary_armor_boots": "Cuissards de Mercenaire",
+
+"item.mcda.mercenary_armor.tooltip_1": "Appréciée par ceux qui cherchent à économiser, elle manque de fantaisie mais fait le travail.",
+
+"item.mcda.renegade_armor_helmet": "Casque de Renégat",
+"item.mcda.renegade_armor_chestplate": "Plastron de Renégat",
+"item.mcda.renegade_armor_leggings": "Jambières de Renégat",
+"item.mcda.renegade_armor_boots": "Cuissards de Renégat",
+
+"item.mcda.renegade_armor.tooltip_1": "Cet ensemble d'armure était un paiement",
+"item.mcda.renegade_armor.tooltip_2": "convenable pour des mercenaires engagés pour",
+"item.mcda.renegade_armor.tooltip_3": "protéger les villages contre les Illagers.",
+
+"item.mcda.renegade_armor.effect.tooltip_1": "Ruée du Renégat",
+
+"item.mcda.hungry_horror_helmet": "Casque de l'Horreur Affamée",
+"item.mcda.hungry_horror_chestplate": "Plastron de l'Horreur Affamée",
+"item.mcda.hungry_horror_leggings": "Jambières de l'Horreur Affamée",
+"item.mcda.hungry_horror_boots": "Bottes de l'Horreur Affamée",
+
+"item.mcda.hungry_horror.tooltip_1": "Lorsque vous portez cette armure,",
+"item.mcda.hungry_horror.tooltip_2": "les sons de cris remplissent",
+"item.mcda.hungry_horror.tooltip_3": "l'air. Mais les cris sont-ils",
+"item.mcda.hungry_horror.tooltip_4": "les vôtres ou ceux de vos ennemis ?",
+
+"item.mcda.hungry_horror.effect.tooltip_1": "Faim",
+"item.mcda.hungry_horror.effect.tooltip_2": "Douleurs de la Faim",
+
+"item.mcda.ocelot_armor_helmet": "Casque de l'Ocelot",
+"item.mcda.ocelot_armor_chestplate": "Plastron de l'Ocelot",
+"item.mcda.ocelot_armor_leggings": "Jambières de l'Ocelot",
+"item.mcda.ocelot_armor_boots": "Bottes de l'Ocelot",
+
+"item.mcda.ocelot_armor.tooltip_1": "Vous ressentez une montée d'adrénaline pure",
+"item.mcda.ocelot_armor.tooltip_2": "traverser votre corps lorsque vous portez cette",
+"item.mcda.ocelot_armor.tooltip_3": "peau de l'Ocelot.",
+"item.mcda.ocelot_armor.tooltip_4": "",
+
+"item.mcda.shadow_walker_armor_helmet": "Casque de l'Ombre Marcheuse",
+"item.mcda.shadow_walker_armor_chestplate": "Plastron de l'Ombre Marcheuse",
+"item.mcda.shadow_walker_armor_leggings": "Jambières de l'Ombre Marcheuse",
+"item.mcda.shadow_walker_armor_boots": "Bottes de l'Ombre Marcheuse",
+
+"item.mcda.shadow_walker_armor.tooltip_1": "Le légendaire Ocelot noir était",
+"item.mcda.shadow_walker_armor.tooltip_2": "aussi gracieux que mortel.",
+"item.mcda.shadow_walker_armor.tooltip_3": "Lorsque vous portez sa peau, vous avez",
+"item.mcda.shadow_walker_armor.tooltip_4": "l'impression que vos ennemis courent",
+"item.mcda.shadow_walker_armor.tooltip_5": "après votre ombre.",
+
+"item.mcda.shadow_walker_armor.effect.tooltip_1": "Pas de dommages de chute",
+"item.mcda.shadow_walker_armor.effect.tooltip_2": "Sprint",
+
+"item.mcda.phantom_armor_helmet": "Casque Fantôme",
+"item.mcda.phantom_armor_chestplate": "Plastron Fantôme",
+"item.mcda.phantom_armor_leggings": "Jambières Fantômes",
+"item.mcda.phantom_armor_boots": "Bottes Fantômes",
+
+"item.mcda.phantom_armor.tooltip_1": "Cette armure, fabriquée à partir des os",
+"item.mcda.phantom_armor.tooltip_2": "des Fantômes, est une vision terrifiante",
+"item.mcda.phantom_armor.tooltip_3": "sur le champ de bataille.",
+
+"item.mcda.phantom_armor.effect.tooltip_1": "Chute lente",
+
+"item.mcda.frost_bite_armor_helmet": "Casque Morsure de Glace",
+"item.mcda.frost_bite_armor_chestplate": "Plastron Morsure de Glace",
+"item.mcda.frost_bite_armor_leggings": "Jambières Morsure de Glace",
+"item.mcda.frost_bite_armor_boots": "Bottes Morsure de Glace",
+
+"item.mcda.frost_bite_armor.tooltip_1": "Frost Bite se souvient des vents glacés",
+"item.mcda.frost_bite_armor.tooltip_2": "qui autrefois soufflaient sous les ailes",
+"item.mcda.frost_bite_armor.tooltip_3": "des Fantômes nocturnes.",
+
+"item.mcda.frost_bite_armor.effect.tooltip_1": "Chute lente",
+"item.mcda.frost_bite_armor.effect.tooltip_2": "Morsure de Glace",
+
+"item.mcda.plate_armor_helmet": "Casque de Plaques",
+"item.mcda.plate_armor_chestplate": "Plastron de Plaques",
+"item.mcda.plate_armor_leggings": "Jambières de Plaques",
+"item.mcda.plate_armor_boots": "Bottes de Plaques",
+
+"item.mcda.plate_armor.tooltip_1": "L'armure de plaques transforme le soldat",
+"item.mcda.plate_armor.tooltip_2": "moyen en forteresse, mais réduit sa",
+"item.mcda.plate_armor.tooltip_3": " mobilité.",
+
+"item.mcda.full_metal_armor_helmet": "Casque Full Metal",
+"item.mcda.full_metal_armor_chestplate": "Plastron Full Metal",
+"item.mcda.full_metal_armor_leggings": "Jambières Full Metal",
+"item.mcda.full_metal_armor_boots": "Cuisses Full Metal",
+
+"item.mcda.full_metal_armor.tooltip_1": "L'armure Full Metal est destinée aux",
+"item.mcda.full_metal_armor.tooltip_2": "grands défenseurs de l'Overworld.",
+
+"item.mcda.reinforced_mail_helmet": "Casque en Maille Renforcée",
+"item.mcda.reinforced_mail_chestplate": "Plastron en Maille Renforcée",
+"item.mcda.reinforced_mail_leggings": "Jambières en Maille Renforcée",
+"item.mcda.reinforced_mail_boots": "Poleyn en Maille Renforcée",
+
+"item.mcda.reinforced_mail.tooltip_1": "Portée principalement par des aventuriers",
+"item.mcda.reinforced_mail.tooltip_2": "occasionnels, la Maille Renforcée est un",
+"item.mcda.reinforced_mail.tooltip_3": "spectacle courant dans tout le pays.",
+
+"item.mcda.stalwart_armor_helmet": "Casque de Stalwart",
+"item.mcda.stalwart_armor_chestplate": "Plastron de Stalwart",
+"item.mcda.stalwart_armor_leggings": "Jambières de Stalwart",
+"item.mcda.stalwart_armor_boots": "Poleyn de Stalwart",
+
+"item.mcda.stalwart_armor.tooltip_1": "Cette armure fiable est suffisamment solide",
+"item.mcda.stalwart_armor.tooltip_2": "pour être transmise de génération en génération.",
+
+"item.mcda.stalwart_armor.effect.tooltip_1": "Rempart de Stalwart",
+
+"item.mcda.ghostly_armor_helmet": "Casque Spectral",
+"item.mcda.ghostly_armor_chestplate": "Gambison Spectral",
+"item.mcda.ghostly_armor_leggings": "Jambières Spectrales",
+"item.mcda.ghostly_armor_boots": "Bottes Spectrales",
+
+"item.mcda.ghostly_armor.tooltip_1": "Ceux qui portent l'Armure Spectrale peuvent",
+"item.mcda.ghostly_armor.tooltip_2": "avoir l'impression que leur corps se déconnecte",
+"item.mcda.ghostly_armor.tooltip_3": "brièvement du monde physique, mais sont",
+"item.mcda.ghostly_armor.tooltip_4": "rapidement ramenés à la réalité.",
+
+"item.mcda.ghost_kindler_helmet": "Casque d'Embrasement Spectral",
+"item.mcda.ghost_kindler_chestplate": "Gambison d'Embrasement Spectral",
+"item.mcda.ghost_kindler_leggings": "Jambières d'Embrasement Spectral",
+"item.mcda.ghost_kindler_boots": "Bottes d'Embrasement Spectral",
+
+"item.mcda.ghost_kindler.tooltip_1": "Des flammes étranges suivent la forme changeante",
+"item.mcda.ghost_kindler.tooltip_2": "de ceux qui portent l'armure Ghost Kindler.",
+
+"item.mcda.ghost_kindler.effect.tooltip_1": "Embrasement Spectral",
+"item.mcda.ghost_kindler.effect.tooltip_2": "Traînée d'Embrasement Spectral",
+
+"item.mcda.white_mystery_armor_helmet": "Casque Mystère Blanc",
+"item.mcda.white_mystery_armor_chestplate": "Plastron Mystère Blanc",
+"item.mcda.white_mystery_armor_leggings": "Jambières Mystère Blanc",
+"item.mcda.white_mystery_armor_boots": "Cuisses Mystère Blanc",
+
+"item.mcda.mystery_armor.tooltip_1": "Certains forgerons voient l'influence du",
+"item.mcda.mystery_armor.tooltip_2": "Golem de Fer dans cette armure",
+"item.mcda.mystery_armor.tooltip_3": "aux propriétés changeantes.",
+
+"item.mcda.mystery_armor.effect.tooltip_1": "Effet Mystère",
+
+"item.mcda.blue_mystery_armor_helmet": "Casque Mystère Bleu",
+"item.mcda.blue_mystery_armor_chestplate": "Plastron Mystère Bleu",
+"item.mcda.blue_mystery_armor_leggings": "Jambières Mystère Bleu",
+"item.mcda.blue_mystery_armor_boots": "Cuisses Mystère Bleu",
+
+"item.mcda.green_mystery_armor_helmet": "Casque Mystère Vert",
+"item.mcda.green_mystery_armor_chestplate": "Plastron Mystère Vert",
+"item.mcda.green_mystery_armor_leggings": "Jambières Mystère Vert",
+"item.mcda.green_mystery_armor_boots": "Cuisses Mystère Vert",
+
+"item.mcda.purple_mystery_armor_helmet": "Casque Mystère Violet",
+"item.mcda.purple_mystery_armor_chestplate": "Plastron Mystère Violet",
+"item.mcda.purple_mystery_armor_leggings": "Jambières Mystère Violet",
+"item.mcda.purple_mystery_armor_boots": "Cuisses Mystère Violet",
+
+"item.mcda.red_mystery_armor_helmet": "Casque Mystère Rouge",
+"item.mcda.red_mystery_armor_chestplate": "Plastron Mystère Rouge",
+"item.mcda.red_mystery_armor_leggings": "Jambières Mystère Rouge",
+"item.mcda.red_mystery_armor_boots": "Cuisses Mystère Rouge",
+
+"item.mcda.scale_mail_chestplate": "Cuirasse d'Écailles",
+"item.mcda.scale_mail_leggings": "Jambières d'Écailles",
+"item.mcda.scale_mail_boots": "Tassettes d'Écailles",
+
+"item.mcda.scale_mail.tooltip_1": "Cette armure, forgée près des rivages",
+"item.mcda.scale_mail.tooltip_2": "d'une grande mer, s'inspire des écailles",
+"item.mcda.scale_mail.tooltip_3": "des poissons.",
+
+"item.mcda.highland_armor_helmet": "Casque des Hautes Terres",
+"item.mcda.highland_armor_chestplate": "Plastron des Hautes Terres",
+"item.mcda.highland_armor_leggings": "Jambières des Hautes Terres",
+"item.mcda.highland_armor_boots": "Tassettes des Hautes Terres",
+
+"item.mcda.highland_armor.tooltip_1": "Un armurier sage a fabriqué cette armure avec soin,",
+"item.mcda.highland_armor.tooltip_2": "elle comporte des éléments des villageois des montagnes.",
+
+"item.mcda.highland_armor.effect.tooltip_1": "Hâte",
+
+"item.mcda.snow_armor_helmet": "Casque de Neige",
+"item.mcda.snow_armor_chestplate": "Plastron de Neige",
+"item.mcda.snow_armor_leggings": "Jambières de Neige",
+"item.mcda.snow_armor_boots": "Bottes de Neige",
+
+"item.mcda.snow_armor.tooltip_1": "Une armure trempée dans la fonte des neiges",
+"item.mcda.snow_armor.tooltip_2": "qui protège celui qui la porte du froid glacial",
+"item.mcda.snow_armor.tooltip_3": "de la toundra.",
+
+"item.mcda.frost_armor_helmet": "Casque de Givre",
+"item.mcda.frost_armor_chestplate": "Plastron de Givre",
+"item.mcda.frost_armor_leggings": "Jambières de Givre",
+"item.mcda.frost_armor_boots": "Bottes de Givre",
+
+"item.mcda.frost_armor.tooltip_1": "Cette armure légendaire, forgée à partir de glace",
+"item.mcda.frost_armor.tooltip_2": "qui ne fond jamais, donne à celui qui la porte",
+"item.mcda.frost_armor.tooltip_3": "l'impression d'être en parfaite harmonie avec l'hiver.",
+
+"item.mcda.frost_armor.effect.tooltip_1": "Congélation fluide",
+
+"item.mcda.soul_robe_helmet": "Capuche d'Âme",
+"item.mcda.soul_robe_chestplate": "Robe d'Âme",
+"item.mcda.soul_robe_leggings": "Jambières d'Âme",
+"item.mcda.soul_robe_boots": "Ceinture d'Âme",
+
+"item.mcda.soul_robe.tooltip_1": "Sous un certain éclairage, les âmes",
+"item.mcda.soul_robe.tooltip_2": "tissées dans le tissu de la Robe d'Âme",
+"item.mcda.soul_robe.tooltip_3": "brillent d'un pouvoir éclatant.",
+
+"item.mcda.souldancer_robe_helmet": "Capuche de Danseur d'Âme",
+"item.mcda.souldancer_robe_chestplate": "Robe de Danseur d'Âme",
+"item.mcda.souldancer_robe_leggings": "Jambières de Danseur d'Âme",
+"item.mcda.souldancer_robe_boots": "Ceinture de Danseur d'Âme",
+
+"item.mcda.souldancer_robe.tooltip_1": "La Robe de Danseur d'Âme prend vie",
+"item.mcda.souldancer_robe.tooltip_2": "sous la lumière, comme si les âmes",
+"item.mcda.souldancer_robe.tooltip_3": "en elle dansaient pour l'éternité.",
+
+"item.mcda.souldancer_robe.effect.tooltip_1": "Grâce du Danseur d'Âme",
+"item.mcda.souldancer_robe.effect.tooltip_2": "Expérience du Danseur d'Âme",
+
+"item.mcda.spelunker_armor_helmet": "Casque de Spéléologue",
+"item.mcda.spelunker_armor_chestplate": "Gilet de Spéléologue",
+"item.mcda.spelunker_armor_leggings": "Jambières de Spéléologue",
+"item.mcda.spelunker_armor_boots": "Bracelets de Spéléologue",
+
+"item.mcda.spelunker_armor.tooltip_1": "L'armure de Spéléologue est portée par ceux",
+"item.mcda.spelunker_armor.tooltip_2": "qui bravent les profondeurs les plus sombres",
+"item.mcda.spelunker_armor.tooltip_3": "de l'Overworld.",
+
+"item.mcda.cave_crawler_helmet": "Casque d'Explorateur de Cavernes",
+"item.mcda.cave_crawler_chestplate": "Veste d'Explorateur de Cavernes",
+"item.mcda.cave_crawler_leggings": "Jambières d'Explorateur de Cavernes",
+"item.mcda.cave_crawler_boots": "Bottes d'Explorateur de Cavernes",
+
+"item.mcda.cave_crawler.tooltip_1": "L'armure d'Explorateur de Cavernes a été transmise",
+"item.mcda.cave_crawler.tooltip_2": "de génération en génération parmi les courageux",
+"item.mcda.cave_crawler.tooltip_3": "spéléologues et mineurs.",
+
+"item.mcda.cave_crawler.effect.tooltip_1": "Hâte",
+
+"item.mcda.thief_armor_helmet": "Masque de Voleur",
+"item.mcda.thief_armor_chestplate": "Gilet de Voleur",
+"item.mcda.thief_armor_leggings": "Jambières de Voleur",
+"item.mcda.thief_armor_boots": "Ceinture de Voleur",
+
+"item.mcda.thief_armor.tooltip_1": "Cette armure est légère, agile et",
+"item.mcda.thief_armor.tooltip_2": "a une légère odeur de soufre.",
+
+"item.mcda.thief_armor.effect.tooltip_1": "Invisibilité",
+
+"item.mcda.spider_armor_helmet": "Masque d'Araignée",
+"item.mcda.spider_armor_chestplate": "Veste d'Araignée",
+"item.mcda.spider_armor_leggings": "Jambières d'Araignée",
+"item.mcda.spider_armor_boots": "Ceinture d'Araignée",
+
+"item.mcda.spider_armor.tooltip_1": "L'Armure d'Araignée, créée par des maîtres",
+"item.mcda.spider_armor.tooltip_2": "voleurs, est inspirée par les talents agiles",
+"item.mcda.spider_armor.tooltip_3": "de l'araignée.",
+
+"item.mcda.spider_armor.effect.tooltip_1": "Escalade murale",
+"item.mcda.spider_armor.effect.tooltip_2": "Marche dans les toiles",
+
+"item.mcda.wolf_armor_helmet": "Capuche de Loup",
+"item.mcda.wolf_armor_chestplate": "Veste de Loup",
+"item.mcda.wolf_armor_leggings": "Jambières de Loup",
+"item.mcda.wolf_armor_boots": "Bottes de Loup",
+
+"item.mcda.wolf_armor.tooltip_1": "De nombreux guerriers portent les têtes de",
+"item.mcda.wolf_armor.tooltip_2": "loups au combat pour semer la peur",
+"item.mcda.wolf_armor.tooltip_3": "dans le cœur de leurs ennemis.",
+
+"item.mcda.black_wolf_armor_helmet": "Capuche du Loup Noir",
+"item.mcda.black_wolf_armor_chestplate": "Veste du Loup Noir",
+"item.mcda.black_wolf_armor_leggings": "Jambières du Loup Noir",
+"item.mcda.black_wolf_armor_boots": "Bottes du Loup Noir",
+
+"item.mcda.black_wolf_armor.tooltip_1": "Le loup qui frappe depuis les",
+"item.mcda.black_wolf_armor.tooltip_2": "ombres vit pour raconter l'histoire.",
+
+"item.mcda.black_wolf_armor.effect.tooltip_1": "Chef de Meute",
+
+"item.mcda.fox_armor_helmet": "Capuche du Renard",
+"item.mcda.fox_armor_chestplate": "Veste du Renard",
+"item.mcda.fox_armor_leggings": "Jambières du Renard",
+"item.mcda.fox_armor_boots": "Bottes du Renard",
+
+"item.mcda.fox_armor.tooltip_1": "Les anciennes tribus de Villageois ont créé cette",
+"item.mcda.fox_armor.tooltip_2": "armure pour honorer le renard, qui est un grand",
+"item.mcda.fox_armor.tooltip_3": "et agile guerrier. Cette pièce inspire",
+"item.mcda.fox_armor.tooltip_4": "la terreur dans le cœur de nombreux ennemis",
+"item.mcda.fox_armor.tooltip_5": "car elle a la réputation d'être très",
+"item.mcda.fox_armor.tooltip_6": "difficile à percer.",
+
+"item.mcda.fox_armor.effect.tooltip_1": "Marche dans les buissons",
+"item.mcda.fox_armor.effect.tooltip_2": "Saut du Renard",
+
+"item.mcda.arctic_fox_armor_helmet": "Capuche du Renard Arctique",
+"item.mcda.arctic_fox_armor_chestplate": "Veste du Renard Arctique",
+"item.mcda.arctic_fox_armor_leggings": "Jambières du Renard Arctique",
+"item.mcda.arctic_fox_armor_boots": "Bottes du Renard Arctique",
+
+"item.mcda.arctic_fox_armor.tooltip_1": "Si vous voulez survivre avec style dans",
+"item.mcda.arctic_fox_armor.tooltip_2": "la toundra glaciale, l'Armure du Renard Arctique",
+"item.mcda.arctic_fox_armor.tooltip_3": "est le meilleur choix de cette saison.",
+
+"item.mcda.arctic_fox_armor.effect.tooltip_1": "Marche dans les buissons",
+"item.mcda.arctic_fox_armor.effect.tooltip_2": "Saut du Renard",
+"item.mcda.arctic_fox_armor.effect.tooltip_3": "Hauteurs de l'Arctique",
+"item.mcda.arctic_fox_armor.effect.tooltip_4": "Vitesse de la Baie Sucrée",
+
+"item.mcda.emerald_gear_helmet": "Casque de l'Équipement Émeraude",
+"item.mcda.emerald_gear_chestplate": "Plastron de l'Équipement Émeraude",
+"item.mcda.emerald_gear_leggings": "Jambières de l'Équipement Émeraude",
+"item.mcda.emerald_gear_boots": "Bottes de l'Équipement Émeraude",
+
+"item.mcda.emerald_gear.tooltip_1": "En portant l'armure Émeraude lors de",
+"item.mcda.emerald_gear.tooltip_2": "vos aventures, elle attire d'autres",
+"item.mcda.emerald_gear.tooltip_3": "émeraudes vers vous comme par hasard.",
+
+"item.mcda.opulent_armor_helmet": "Casque de l'Armure Opulente",
+"item.mcda.opulent_armor_chestplate": "Plastron de l'Armure Opulente",
+"item.mcda.opulent_armor_leggings": "Jambières de l'Armure Opulente",
+"item.mcda.opulent_armor_boots": "Bottes de l'Armure Opulente",
+
+"item.mcda.opulent_armor.tooltip_1": "L'Armure Opulente, initialement conçue davantage",
+"item.mcda.opulent_armor.tooltip_2": "pour l'apparat que pour le combat, prospère",
+"item.mcda.opulent_armor.tooltip_3": "en présence d'émeraudes.",
+
+"item.mcda.opulent_armor.effect.tooltip_1": "Chance",
+
+"item.mcda.gilded_glory_helmet": "Casque de la Gloire Dorée",
+"item.mcda.gilded_glory_chestplate": "Plastron de la Gloire Dorée",
+"item.mcda.gilded_glory_leggings": "Jambières de la Gloire Dorée",
+"item.mcda.gilded_glory_boots": "Bottes de la Gloire Dorée",
+
+"item.mcda.gilded_glory.tooltip_1": "Même la mort elle-même doit s'arrêter",
+"item.mcda.gilded_glory.tooltip_2": "et admirer les charmes de la légendaire",
+"item.mcda.gilded_glory.tooltip_3": "armure de la Gloire Dorée.",
+
+"item.mcda.gilded_glory.effect.tooltip_1": "Héros du Village",
+"item.mcda.gilded_glory.effect.tooltip_2": "Totem Doré",
+"item.mcda.gilded_glory.effect.tooltip_3": "Dommage Doré",
+"item.mcda.gilded_glory.effect.tooltip_4": "Faux Idole",
+
+"item.mcda.climbing_gear_helmet": "Capuche de l'Équipement d'Escalade",
+"item.mcda.climbing_gear_chestplate": "Veste de l'Équipement d'Escalade",
+"item.mcda.climbing_gear_leggings": "Jambières de l'Équipement d'Escalade",
+"item.mcda.climbing_gear_boots": "Bottes de l'Équipement d'Escalade",
+
+"item.mcda.climbing_gear.tooltip_1": "Cet Équipement d'Escalade étudié est parfait",
+"item.mcda.climbing_gear.tooltip_2": "pour affronter le froid glacial de",
+"item.mcda.climbing_gear.tooltip_3": "la face de la montagne enneigée.",
+
+"item.mcda.rugged_climbing_gear_helmet": "Capuche de l'Équipement d'Escalade Robuste",
+"item.mcda.rugged_climbing_gear_chestplate": "Veste de l'Équipement d'Escalade Robuste",
+"item.mcda.rugged_climbing_gear_leggings": "Jambières de l'Équipement d'Escalade Robuste",
+"item.mcda.rugged_climbing_gear_boots": "Bottes de l'Équipement d'Escalade Robuste",
+
+"item.mcda.rugged_climbing_gear.tooltip_1": "Affrontez le pire que la nature peut",
+"item.mcda.rugged_climbing_gear.tooltip_2": "vous lancer avec cette armure robuste.",
+
+"item.mcda.rugged_climbing_gear.effect.tooltip_1": "Escalade Robuste",
+
+"item.mcda.goat_gear_helmet": "Capuche de l'Équipement Chèvre",
+"item.mcda.goat_gear_chestplate": "Veste de l'Équipement Chèvre",
+"item.mcda.goat_gear_leggings": "Jambières de l'Équipement Chèvre",
+"item.mcda.goat_gear_boots": "Bottes de l'Équipement Chèvre",
+
+"item.mcda.goat_gear.tooltip_1": "Fabriquée à partir des peaux de Chèvres",
+"item.mcda.goat_gear.tooltip_2": "des Montagnes, vous aurez l'impression de sauter",
+"item.mcda.goat_gear.tooltip_3": "de sommet en sommet avec cet Équipement Chèvre.",
+
+"item.mcda.sprout_armor_boots": "Bottes des Pousses",
+"item.mcda.sprout_armor_leggings": "Pantalon des Pousses",
+"item.mcda.sprout_armor_chestplate": "Robe des Pousses",
+"item.mcda.sprout_armor_helmet": "Capuche des Pousses",
+
+"item.mcda.sprout_armor.tooltip_1": "Les vignes sombres de l'Armure des Pousses",
+"item.mcda.sprout_armor.tooltip_2": "continuent de pousser, même dans les",
+"item.mcda.sprout_armor.tooltip_3": "ténèbres complètes.",
+
+"item.mcda.sprout_armor.effect.tooltip_1": "Résistance au Feu",
+
+"item.mcda.living_vines_armor_boots": "Bottes des Vignes Vivantes",
+"item.mcda.living_vines_armor_leggings": "Pantalon des Vignes Vivantes",
+"item.mcda.living_vines_armor_chestplate": "Robe des Vignes Vivantes",
+"item.mcda.living_vines_armor_helmet": "Capuche des Vignes Vivantes",
+
+"item.mcda.living_vines_armor.tooltip_1": "Cette armure est fabriquée à partir des",
+"item.mcda.living_vines_armor.tooltip_2": "vignes vivantes d'une plante qui pousse",
+"item.mcda.living_vines_armor.tooltip_3": "uniquement sur les champs de bataille.",
+
+"item.mcda.living_vines_armor.effect.tooltip_1": "Résistance au Feu",
+
+"item.mcda.piglin_armor_boots": "Bottes Piglin",
+"item.mcda.piglin_armor_leggings": "Jambières Piglin",
+"item.mcda.piglin_armor_chestplate": "Plastron Piglin",
+"item.mcda.piglin_armor_helmet": "Casque Piglin",
+
+"item.mcda.piglin_armor.tooltip_1": "Porter l'armure Piglin suffit presque",
+"item.mcda.piglin_armor.tooltip_2": "à faire sentir chez soi",
+"item.mcda.piglin_armor.tooltip_3": "dans le Nether. Presque.",
+
+"item.mcda.golden_piglin_armor_boots": "Bottes de Piglin dorées",
+"item.mcda.golden_piglin_armor_leggings": "Jambières de Piglin dorées",
+"item.mcda.golden_piglin_armor_chestplate": "Plastron de Piglin doré",
+"item.mcda.golden_piglin_armor_helmet": "Casque de Piglin doré",
+
+"item.mcda.golden_piglin_armor.tooltip_1": "L'armure de Piglin doré combine",
+"item.mcda.golden_piglin_armor.tooltip_2": "les deux choses préférées d'un piglin :",
+"item.mcda.golden_piglin_armor.tooltip_3": "ne pas mourir et l'or.",
+
+"item.mcda.golden_piglin_armor.effect.tooltip_1": "Duper les Piglins",
+
+"item.mcda.squid_armor_boots": "Bottes de Calmar",
+"item.mcda.squid_armor_leggings": "Jambières de Calmar",
+"item.mcda.squid_armor_chestplate": "Plastron de Calmar",
+"item.mcda.squid_armor_helmet": "Casque de Calmar",
+
+"item.mcda.squid_armor.tooltip_1": "Il était facile de rendre cette armure",
+"item.mcda.squid_armor.tooltip_2": "noire comme de l'encre cool. La partie",
+"item.mcda.squid_armor.tooltip_3": "difficile était de sécuriser les sacs d'encre.",
+
+"item.mcda.glow_squid_armor_boots": "Bottes de Calmar Lumineux",
+"item.mcda.glow_squid_armor_leggings": "Jambières de Calmar Lumineux",
+"item.mcda.glow_squid_armor_chestplate": "Plastron de Calmar Lumineux",
+"item.mcda.glow_squid_armor_helmet": "Casque de Calmar Lumineux",
+
+"item.mcda.glow_squid_armor.tooltip_1": "Ceux qui chassent les calmars lumineux",
+"item.mcda.glow_squid_armor.tooltip_2": "portent cette armure pour se fondre",
+"item.mcda.glow_squid_armor.tooltip_3": "avec leur belle proie.",
+
+"item.mcda.glow_squid_armor.effect.tooltip_1": "Respiration Aquatique",
+
+"item.mcda.turtle_armor_boots": "Bottes de Tortue",
+"item.mcda.turtle_armor_leggings": "Jambières de Tortue",
+"item.mcda.turtle_armor_chestplate": "Plastron de Tortue",
+"item.mcda.turtle_armor_helmet": "Casque de Tortue",
+
+"item.mcda.turtle_armor.tooltip_1": "L'armure de Tortue est inspirée de",
+"item.mcda.turtle_armor.tooltip_2": "la carapace résistante et protectrice",
+"item.mcda.turtle_armor.tooltip_3": "de la modeste tortue.",
+
+"item.mcda.nimble_turtle_armor_boots": "Bottes de Tortue Agile",
+"item.mcda.nimble_turtle_armor_leggings": "Jambières de Tortue Agile",
+"item.mcda.nimble_turtle_armor_chestplate": "Plastron de Tortue Agile",
+"item.mcda.nimble_turtle_armor_helmet": "Casque de Tortue Agile",
+
+"item.mcda.nimble_turtle_armor.tooltip_1": "Cette armure est faite à partir des coquilles denses",
+"item.mcda.nimble_turtle_armor.tooltip_2": "(mais étonnamment légères) des tortues qui vivaient",
+"item.mcda.nimble_turtle_armor.tooltip_3": "à des profondeurs écrasantes.",
+
+"item.mcda.nimble_turtle_armor.effect.tooltip_1": "Résilience de Tortue Agile",
+
+"item.mcda.entertainer_garb_helmet": "Chapeau d'Artiste",
+"item.mcda.entertainer_garb_chestplate": "Gilet d'Artiste",
+"item.mcda.entertainer_garb_leggings": "Pantalon d'Artiste",
+"item.mcda.entertainer_garb_boots": "Protège-tibias d'Artiste",
+
+"item.mcda.entertainer_garb.tooltip_1": "Défensif ? Certainement. Fabuleux ? ABSOLUMENT.",
+
+"item.mcda.troubadour_armor_helmet": "Chapeau de Troubadour",
+"item.mcda.troubadour_armor_chestplate": "Gilet de Troubadour",
+"item.mcda.troubadour_armor_leggings": "Pantalon de Troubadour",
+"item.mcda.troubadour_armor_boots": "Protège-tibias de Troubadour",
+
+"item.mcda.troubadour_armor.tooltip_1": "Pourquoi laisser vos fans émerveillés",
+"item.mcda.troubadour_armor.tooltip_2": "quand vous pouvez les éblouir avec",
+"item.mcda.troubadour_armor.tooltip_3": "cette tenue inspirante ?",
+
+"item.mcda.troubadour_armor.effect.tooltip_1": "Charisme de Troubadour",
+
+"item.mcda.teleportation_robe_helmet": "Capuche de Téléportation",
+"item.mcda.teleportation_robe_chestplate": "Robe de Téléportation",
+"item.mcda.teleportation_robe_leggings": "Ceinture de Téléportation",
+"item.mcda.teleportation_robe_boots": "Chaussures de Téléportation",
+
+"item.mcda.teleportation_robe.tooltip_1": "Les Robes de Téléportation ont été créées par",
+"item.mcda.teleportation_robe.tooltip_2": "ceux qui ont consacré leur vie à l'étude",
+"item.mcda.teleportation_robe.tooltip_3": "des énigmes de l'End.",
+
+"item.mcda.teleportation_robe.effect.tooltip_1": "Téléportation",
+
+"item.mcda.unstable_robe_helmet": "Capuche Instable",
+"item.mcda.unstable_robe_chestplate": "Robe Instable",
+"item.mcda.unstable_robe_leggings": "Ceinture Instable",
+"item.mcda.unstable_robe_boots":Chaussures Instables",
+
+"item.mcda.unstable_robe.tooltip_1": "Cette Énderobe crépite d'électricité",
+"item.mcda.unstable_robe.tooltip_2": "pendant que vous traversez le champ de bataille.",
+
+"item.mcda.unstable_robe.effect.tooltip_1": "Téléportation Instable",
+
+"item.mcda.shulker_armor_helmet": "Casque de Shulker",
+"item.mcda.shulker_armor_chestplate": "Plastron de Shulker",
+"item.mcda.shulker_armor_leggings": "Jambières de Shulker",
+"item.mcda.shulker_armor_boots": "Cuissots de Shulker",
+
+"item.mcda.shulker_armor.tooltip_1": "L'armure de Shulker rivalise même avec",
+"item.mcda.shulker_armor.tooltip_2": "les plaques d'acier les plus résistantes.",
+
+"item.mcda.sturdy_shulker_armor_helmet": "Casque de Shulker Robuste",
+"item.mcda.sturdy_shulker_armor_chestplate": "Plastron de Shulker Robuste",
+"item.mcda.sturdy_shulker_armor_leggings": "Jambières de Shulker Robustes",
+"item.mcda.sturdy_shulker_armor_boots": "Cuissots de Shulker Robustes",
+
+"item.mcda.sturdy_shulker_armor.tooltip_1": "On dit que la meilleure défense est",
+"item.mcda.sturdy_shulker_armor.tooltip_2": "une bonne attaque, mais bonne chance",
+"item.mcda.sturdy_shulker_armor.tooltip_3": "pour percer cette fortification.",
+
+"item.mcda.sturdy_shulker_armor.effect.tooltip_1": "Immunité à la Lévitation",
+"item.mcda.sturdy_shulker_armor.effect.tooltip_2": "Balles de Shulker",
+
+"item.mcda.gourdian_armor_helmet": "Casque de Gardien de Gourdes",
+"item.mcda.gourdian_armor_chestplate": "Plastron de Gardien de Gourdes",
+"item.mcda.gourdian_armor_leggings": "Jambières de Gardien de Gourdes",
+"item.mcda.gourdian_armor_boots": "Bottes de Gardien de Gourdes",
+
+"item.mcda.gourdian_armor.tooltip_1": "Ceux qui revêtent la cape du",
+"item.mcda.gourdian_armor.tooltip_2": "Gardien Effrayant deviennent la",
+"item.mcda.gourdian_armor.tooltip_3": "terreur légendaire des Champs",
+"item.mcda.gourdian_armor.tooltip_4": "de Citrouilles.",
+
+"item.mcda.gourdian_armor.effect.tooltip_1": "Haine du Gardien de Gourdes",
+
+"item.mcda.cauldron_armor_helmet": "Casque de Chaudron",
+"item.mcda.cauldron_armor_chestplate": "Plastron de Chaudron",
+"item.mcda.cauldron_armor_leggings": "Jambières de Chaudron",
+"item.mcda.cauldron_armor_boots": "Cuissots de Chaudron",
+
+"item.mcda.cauldron_armor.tooltip_1": "L'armure de Chaudron a été créée",
+"item.mcda.cauldron_armor.tooltip_2": "en pensant au camouflage, mais ce",
+"item.mcda.cauldron_armor.tooltip_3": "qu'elle perd en furtivité, elle le",
+"item.mcda.cauldron_armor.tooltip_4": "compense par son charme pétillant.",
+
+"item.mcda.cauldron_armor.effect.tooltip_1": "Débordement du Chaudron",
+
+"item.mcda.sweet_tooth_helmet": "Casque de Gourmand",
+"item.mcda.sweet_tooth_chestplate": "Plastron de Gourmand",
+"item.mcda.sweet_tooth_leggings": "Jambières de Gourmand",
+"item.mcda.sweet_tooth_boots": "Bottes de Gourmand",
+
+"item.mcda.sweet_tooth.tooltip_1": "Cette armure peut sembler être un morceau",
+"item.mcda.sweet_tooth.tooltip_2": "de gâteau pour vos ennemis, mais elle",
+"item.mcda.sweet_tooth.tooltip_3": "est étonnamment résistante en combat.",
+"item.mcda.sweet_tooth.tooltip_4": "C'est sûrement grâce au fondant.",
+
+"item.mcda.vanguard_armor_helmet": "Casque de Vanguard",
+"item.mcda.vanguard_armor_chestplate": "Plastron de Vanguard",
+"item.mcda.vanguard_armor_leggings": "Ceinture de Vanguard",
+
+"item.mcda.effect.lightfooted": "Léger sur ses pieds",
+"item.mcda.effect.freezing_protection": "Protection contre le Froid",
+
+"item.mcda.bone_rib_cage": "Cage thoracique en os",
+"item.mcda.phantom_bones": "Os de Fantôme",
+"item.mcda.phantom_skin": "Peau de Fantôme",
+"item.mcda.ocelot_pelt": "Peau de Ocelot",
+"item.mcda.ocelot_pelt_black": "Peau de Ocelot Noir",
+"item.mcda.wolf_pelt": "Peau de Loup",
+"item.mcda.wolf_pelt_black": "Peau de Loup Noir",
+"item.mcda.fox_pelt": "Peau de Renard",
+"item.mcda.fox_pelt_arctic": "Peau de Renard Arctique",
+"item.mcda.goat_pelt": "Peau de Chèvre",
+"item.mcda.frost_crystal": "Cristal de Givre",
+"item.mcda.glut_charm": "Charme de Gourmand",
+"item.mcda.iron_plate": "Plaque de Fer",
+"item.mcda.iron_scale": "Écaille de Fer",
+"item.mcda.fabric_bolt_white": "Bobine de Tissu Blanc",
+"item.mcda.fabric_bolt_orange": "Bobine de Tissu Orange",
+"item.mcda.fabric_bolt_magenta": "Bobine de Tissu Magenta",
+"item.mcda.fabric_bolt_light_blue": "Bobine de Tissu Bleu Clair",
+"item.mcda.fabric_bolt_yellow": "Bobine de Tissu Jaune",
+"item.mcda.fabric_bolt_lime": "Bobine de Tissu Vert Lime",
+"item.mcda.fabric_bolt_pink": "Bobine de Tissu Rose",
+"item.mcda.fabric_bolt_gray": "Bobine de Tissu Gris",
+"item.mcda.fabric_bolt_light_gray": "Bobine de Tissu Gris Clair",
+"item.mcda.fabric_bolt_cyan": "Bobine de Tissu Cyan",
+"item.mcda.fabric_bolt_purple": "Bobine de Tissu Violet",
+"item.mcda.fabric_bolt_blue": "Bobine de Tissu Bleu",
+"item.mcda.fabric_bolt_brown": "Bobine de Tissu Marron",
+"item.mcda.fabric_bolt_green": "Bobine de Tissu Vert",
+"item.mcda.fabric_bolt_red": "Bobine de Tissu Rouge",
+"item.mcda.fabric_bolt_black": "Bobine de Tissu Noir",
+
+"item.mcda.upgrade_core": "Noyau d'amélioration - Base",
+"item.mcda.upgrade_core_archer": "Noyau d'amélioration - Archer",
+"item.mcda.upgrade_core_depth": "Noyau d'amélioration - Profondeur",
+"item.mcda.upgrade_core_ember": "Noyau d'amélioration - Braise",
+"item.mcda.upgrade_core_fox": "Noyau d'amélioration - Renard",
+"item.mcda.upgrade_core_frost": "Noyau d'amélioration - Gel",
+"item.mcda.upgrade_core_glut": "Noyau d'amélioration - Gourmandise",
+"item.mcda.upgrade_core_golden": "Noyau d'amélioration - Doré",
+"item.mcda.upgrade_core_highland": "Noyau d'amélioration - Montagne",
+"item.mcda.upgrade_core_hive": "Noyau d'amélioration - Ruche",
+"item.mcda.upgrade_core_magicked": "Noyau d'amélioration - Ensorcelé",
+"item.mcda.upgrade_core_metal": "Noyau d'amélioration - Métal",
+"item.mcda.upgrade_core_oceanic": "Noyau d'amélioration - Océanique",
+"item.mcda.upgrade_core_shadows": "Noyau d'amélioration - Ombres",
+"item.mcda.upgrade_core_spider": "Noyau d'amélioration - Araignée",
+"item.mcda.upgrade_core_soul": "Noyau d'amélioration - Âme",
+"item.mcda.upgrade_core_verdant": "Noyau d'amélioration - Verdoyant",
+"item.mcda.upgrade_core_void": "Noyau d'amélioration - Vide",
+"item.mcda.upgrade_core_wither": "Noyau d'amélioration - Wither",
+"item.mcda.upgrade_core_wolf": "Noyau d'amélioration - Loup",
+
+"item.mcda.gemstone_white": "Gemme de quartz",
+"item.mcda.gemstone_blue": "Gemme de lapis-lazuli",
+"item.mcda.gemstone_green": "Gemme d'émeraude",
+"item.mcda.gemstone_purple": "Gemme d'améthyste",
+"item.mcda.gemstone_red": "Gemme de redstone",
+
+"enchantment.mcda.bag_of_souls": "Sac d'âmes",
+"enchantment.mcda.burning": "Brûlant",
+"enchantment.mcda.chilling": "Glacial",
+"enchantment.mcda.cowardice": "Lâcheté",
+"enchantment.mcda.death_barter": "Marché de la mort",
+"enchantment.mcda.deflect": "Déviation",
+"enchantment.mcda.fire_focus": "Concentration de feu",
+"enchantment.mcda.fire_trail": "Sentier de feu",
+"enchantment.mcda.food_reserves": "Réserves alimentaires",
+"enchantment.mcda.frenzied": "Frénétique",
+"enchantment.mcda.heal_allies": "Soigner les alliés",
+"enchantment.mcda.lucky_explorer": "Explorateur chanceux",
+"enchantment.mcda.poison_focus": "Concentration de poison",
+"enchantment.mcda.potion_barrier": "Barrière de potion",
+"enchantment.mcda.reckless": "Téméraire",
+"enchantment.mcda.recycler": "Recyclage",
+"enchantment.mcda.snowball": "Boule de neige",
+"enchantment.mcda.surprise_gift": "Cadeau surprise",
+"enchantment.mcda.swiftfooted": "Pieds légers",
+
+"effect.mcda.freezing": "Congélation",
+
+"subtitles.mcda.player_dodged": "Le joueur a esquivé",
+
+"enchantment.mcda.bag_of_souls.desc": "Augmente la quantité d'expérience que vous gagnez en fonction du niveau de l'enchantement.",
+"enchantment.mcda.burning.desc": "Une version enflammée de l'enchantement Épines.",
+"enchantment.mcda.chilling.desc": "Ralentit et applique une fatigue de minage à l'attaquant.",
+"enchantment.mcda.cowardice.desc": "Lorsque vous êtes en pleine santé, vous bénéficiez de l'effet Force.",
+"enchantment.mcda.death_barter.desc": "Lorsque vous mourez, vous pouvez vous racheter de la mort en payant avec des émeraudes.",
+"enchantment.mcda.deflect.desc": "Lorsque vous êtes touché par une flèche, il y a une chance que la flèche inflige la moitié des dégâts et soit repoussée loin de vous.",
+"enchantment.mcda.fire_focus.desc": "Augmente les dégâts infligés par les attaques de feu, en particulier l'enchantement Aspect enflammé.",
+"enchantment.mcda.fire_trail.desc": "Une traînée de feu suit le joueur.",
+"enchantment.mcda.food_reserves.desc": "Lorsque vous buvez une potion de Vie instantanée, vous recevez une certaine forme de nourriture.",
+"enchantment.mcda.frenzied.desc": "Lorsque votre santé passe en dessous de 50 %, vous bénéficiez de l'effet Hâte.",
+"enchantment.mcda.heal_allies.desc": "Les alliés (villageois, animaux de compagnie, golems et autres joueurs) sont soignés lorsqu'ils subissent des dégâts.",
+"enchantment.mcda.lucky_explorer.desc": "Chance de faire apparaître des émeraudes à chaque bloc exploré.",
+"enchantment.mcda.poison_focus.desc": "Augmente les dégâts infligés par les attaques empoisonnées.",
+"enchantment.mcda.potion_barrier.desc": "Lorsque vous buvez une potion de Vie instantanée, vous recevez l'effet Résistance.",
+"enchantment.mcda.reckless.desc": "Votre santé est réduite de 60 %, mais vous bénéficiez de l'effet Force en fonction du niveau de l'enchantement.",
+"enchantment.mcda.recycler.desc": "Il y a une chance, lorsque vous êtes touché par une flèche, que vous récupériez une flèche, ayant attrapé ou ramassé la flèche avec laquelle vous avez été touché.",
+"enchantment.mcda.snowball.desc": "Lorsque vous êtes attaqué par deux attaquants ou plus, une boule de neige magique est lancée sur l'un des attaquants, le repoussant en arrière.",
+"enchantment.mcda.surprise_gift.desc": "Lorsque vous buvez une potion de Vie instantanée, vous recevez une autre potion parmi une sélection.",
+"enchantment.mcda.swiftfooted.desc": "Lorsque vous sautez, vous bénéficiez de plusieurs secondes d'accélération.",
+
+"activity.mcda.firetrail.enabled": "La traînée de feu est activée.",
+"activity.mcda.firetrail.disabled": "La traînée de feu est désactivée.",
+
+"key.mcda.firetrail.toggle": "Basculer la traînée de feu",
+"key.category.mcda": "Armure de MC Dungeons"
+}

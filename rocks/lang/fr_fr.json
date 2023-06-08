@@ -1,0 +1,48 @@
+{
+	"itemGroup.rocks.rocks":"This Rocks!",
+	
+"block.rocks.rock": "Roche",
+"block.rocks.granite_rock": "Roche de granite",
+"block.rocks.diorite_rock": "Roche de diorite",
+"block.rocks.andesite_rock": "Roche d'andésite",
+"block.rocks.sand_rock": "Roche de sable",
+"block.rocks.red_sand_rock": "Roche de sable rouge",
+"block.rocks.gravel_rock": "Roche de gravier",
+"block.rocks.end_stone_rock": "Roche de pierre de l'End",
+"block.rocks.netherrack_rock": "Roche de pierre du Nether",
+"block.rocks.soul_soil_rock": "Roche de terre des âmes",
+	
+"block.rocks.oak_stick": "Bâton de chêne",
+"block.rocks.birch_stick": "Bâton de bouleau",
+"block.rocks.spruce_stick": "Bâton d'épinette",
+"block.rocks.jungle_stick": "Bâton de jungle",
+"block.rocks.acacia_stick": "Bâton d'acacia",
+"block.rocks.dark_oak_stick": "Bâton de chêne noir",
+"block.rocks.crimson_stick": "Bâton écarlate",
+"block.rocks.warped_stick": "Bâton distordu",
+
+"block.rocks.geyser": "Geyser",
+"block.rocks.nether_geyser": "Geyser de magma",
+
+"block.rocks.pinecone": "Cône de pin",
+"block.rocks.seashell": "Coquillage",
+"block.rocks.starfish": "Étoile de mer",
+	
+"item.rocks.cobblestone_splitter": "Diviseur de pierre taillée",
+"item.rocks.granite_splitter": "Diviseur de granite",
+"item.rocks.diorite_splitter": "Diviseur de diorite",
+"item.rocks.andesite_splitter": "Diviseur d'andésite",
+"item.rocks.sandstone_splitter": "Diviseur de grès",
+"item.rocks.red_sandstone_splitter": "Diviseur de grès rouge",
+"item.rocks.end_stone_splitter": "Diviseur de pierre de l'End",
+"item.rocks.netherrack_splitter": "Diviseur de pierre du Nether",
+"item.rocks.soul_soil_splitter": "Diviseur de terre des âmes",
+
+"rocks.midnightconfig.title": "Configuration de This Rocks!",
+"rocks.midnightconfig.needs_restart": "§cRedémarrer le jeu après avoir modifié la configuration !",
+"rocks.midnightconfig.rocks": "§aNombre d'apparitions de roches",
+"rocks.midnightconfig.sticks": "§aNombre d'apparitions de bâtons",
+"rocks.midnightconfig.misc": "§aNombre d'apparitions diverses",
+"rocks.midnightconfig.underwater_seashell_count": "Coquillages sous-marins",
+"rocks.midnightconfig.underwater_starfish_count": "Étoiles de mer sous-marines"
+}

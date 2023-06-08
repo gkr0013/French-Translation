@@ -1,0 +1,92 @@
+{
+"item.expandeddelight.asparagus": "Asperge",
+"item.expandeddelight.asparagus_seeds": "Graines d'asperges",
+"item.expandeddelight.asparagus_soup": "Soupe d'asperges",
+"item.expandeddelight.asparagus_soup_creamy": "Soupe crémeuse d'asperges",
+"item.expandeddelight.asparagus_and_bacon_cheesy": "Asperges et bacon gratinés",
+
+"item.expandeddelight.sweet_potato": "Patate douce",
+"item.expandeddelight.baked_sweet_potato": "Patate douce au four",
+"item.expandeddelight.sweet_potato_salad": "Salade de patates douces",
+
+
+"item.expandeddelight.chili_pepper": "Piment",
+"item.expandeddelight.chili_pepper_seeds": "Graines de piment",
+"item.expandeddelight.peperonata": "Peperonata",
+
+"item.expandeddelight.peanut": "Cacahuète",
+"item.expandeddelight.peanut_butter": "Beurre de cacahuète",
+"item.expandeddelight.peanut_butter_sandwich": "Sandwich au beurre de cacahuète",
+"item.expandeddelight.peanut_butter_honey_sandwich": "Sandwich au beurre de cacahuète et au miel",
+"item.expandeddelight.peanut_salad": "Salade de cacahuètes",
+"item.expandeddelight.peanut_honey_soup": "Soupe au miel et aux cacahuètes",
+"item.expandeddelight.sweet_berry_jelly_sandwich": "Sandwich au beurre de cacahuète et à la confiture de baies sucrées",
+"item.expandeddelight.glow_berry_jelly_sandwich": "Sandwich au beurre de cacahuète et à la confiture de baies lumineuses",
+
+"item.expandeddelight.glass_jar": "Pot en verre",
+"item.expandeddelight.raw_cinnamon": "Bâton de cannelle",
+"item.expandeddelight.ground_cinnamon": "Cannelle en poudre",
+"item.expandeddelight.salt_rock": "Roche de sel",
+"item.expandeddelight.ground_salt": "Sel",
+
+"item.expandeddelight.cheese_wheel": "Roue de fromage",
+"item.expandeddelight.cheese_slice": "Tranche de fromage",
+"item.expandeddelight.cheese_sandwich": "Sandwich au fromage",
+"item.expandeddelight.grilled_cheese": "Sandwich grillé au fromage",
+"item.expandeddelight.mac_and_cheese": "Macaroni au fromage",
+"item.expandeddelight.sweet_roll": "Petit pain sucré",
+"item.expandeddelight.berry_sweet_roll": "Petit pain sucré aux baies",
+"item.expandeddelight.glow_berry_sweet_roll": "Petit pain sucré aux baies lumineuses",
+"item.expandeddelight.cinnamon_rice": "Riz à la cannelle",
+"item.expandeddelight.cinnamon_apples": "Pommes à la cannelle",
+"item.expandeddelight.chocolate_cookie": "Cookie au chocolat",
+"item.expandeddelight.sugar_cookie": "Cookie au sucre",
+"item.expandeddelight.snickerdoodle": "Snickerdoodle",
+
+"item.expandeddelight.apple_juice": "Jus de pomme",
+"item.expandeddelight.apple_juice.tooltip": "Vitesse (0:10)",
+"item.expandeddelight.sweet_berry_juice": "Jus de baies sucrées",
+"item.expandeddelight.sweet_berry_juice.tooltip": "Boost de santé (0:10)",
+"item.expandeddelight.glow_berry_juice": "Jus de baies lumineuses",
+"item.expandeddelight.glow_berry_juice.tooltip": "Vision nocturne (0:10)",
+
+"item.expandeddelight.sweet_berry_jelly": "Gelée de baies sucrées",
+"item.expandeddelight.sweet_berry_jelly.tooltip": "Boost de santé (0:20)",
+"item.expandeddelight.glow_berry_jelly": "Gelée de baies lumineuses",
+"item.expandeddelight.glow_berry_jelly.tooltip": "Vision nocturne (0:20)",
+
+"item.expandeddelight.mortar_and_pestle_item": "Mortier et pilon",
+
+"item.expandeddelight.juicer_item": "Presse-agrumes",
+
+"block.expandeddelight.asparagus_crate": "Caisse d'asperges",
+"block.expandeddelight.wild_asparagus": "Asperges sauvages",
+"block.expandeddelight.asparagus_crop": "Asperges",
+
+"block.expandeddelight.sweet_potato_crate": "Caisse de patates douces",
+"block.expandeddelight.wild_sweet_potatoes": "Patates douces sauvages",
+"block.expandeddelight.sweet_potatoes_crop": "Patates douces",
+
+"block.expandeddelight.chili_pepper_crate": "Caisse de piments chili",
+"block.expandeddelight.wild_chili_pepper": "Piment chili sauvage",
+"block.expandeddelight.chili_pepper_crop": "Piments chili",
+
+"block.expandeddelight.wild_peanuts": "Arachides sauvages",
+"block.expandeddelight.peanut_crop": "Arachides",
+
+"block.expandeddelight.cinnamon_sapling": "Pousse de cannelle",
+"block.expandeddelight.cinnamon_log": "Bûche de cannelle",
+"block.expandeddelight.salt_ore": "Minerai de sel",
+"block.expandeddelight.deepslate_salt_ore": "Minerai de sel de basalte",
+
+"block.expandeddelight.juicer": "Presse-agrumes",
+
+"block.expandeddelight.mortar_and_pestle": "Mortier et pilon",
+"block.expandeddelight.mortar_and_pestle.pass": "Ce n'est pas quelque chose que vous pouvez écraser...",
+
+"container.expandeddelight.juicer": "Presse-agrumes",
+
+"itemGroup.expandeddelight.group": "Expanded Delight",
+
+"expandeddelight.rei.juicing": "Extraction de jus"
+}

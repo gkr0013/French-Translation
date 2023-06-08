@@ -1,0 +1,14 @@
+{
+"horse.tooltip.health": "Santé : %s",
+"horse.tooltip.health.unit": "%s cœurs",
+"horse.tooltip.jump_height": "Hauteur de saut : %s",
+"horse.tooltip.jump_height.unit": "%s blocs",
+"horse.tooltip.max": "Max : %s",
+"horse.tooltip.min": "Min : %s",
+"horse.tooltip.speed": "Vitesse : %s",
+"horse.tooltip.speed.unit": "%s blocs/seconde",
+"horse.tooltip.strength": "Stockage : %s",
+"horse.tooltip.strength.unit": "%s emplacements",
+"item.horseexpert.monocle": "Monocle",
+"item.horseexpert.monocle.tooltip": "Portez ceci et regardez une monture pour voir ses statistiques !"
+}

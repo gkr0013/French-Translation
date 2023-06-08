@@ -1,0 +1,12 @@
+{
+"item.display_case.display_case": "Vitrine",
+"block.display_case.display_case": "Vitrine",
+"advancement.display_case.collapse.title": "L'effondrement",
+"advancement.display_case.collapse.description": "",
+"advancement.display_case.colorful.title": "Coloré !",
+"advancement.display_case.colorful.description": "Changez la couleur de la vitrine",
+"advancement.display_case.display_item.title": "Quel objet !",
+"advancement.display_case.display_item.description": "Placez l'objet dans la vitrine",
+"advancement.display_case.infinity_case.title": "Vers l'infini et au-delà",
+"advancement.display_case.infinity_case.description": "Placez la vitrine dans la vitrine"
+}

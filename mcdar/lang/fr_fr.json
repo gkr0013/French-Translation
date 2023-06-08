@@ -1,0 +1,189 @@
+{
+"itemGroup.mcdar.artefacts": "Artefacts de MC Dungeons",
+
+"item.mcdar.blast_fungus": "Champignon explosif",
+"item.mcdar.boots_of_swiftness": "Bottes de rapidité",
+"item.mcdar.buzzy_nest": "Nid bourdonnant",
+"item.mcdar.corrupted_beacon": "Flambeau corrompu",
+"item.mcdar.corrupted_seeds": "Graines corrompues",
+"item.mcdar.death_cap_mushroom": "Champignon crâne",
+"item.mcdar.enchanted_grass": "Herbe enchantée",
+"item.mcdar.enchanters_tome": "Tome de l'enchanteur",
+"item.mcdar.flaming_quiver": "Carquois enflammé",
+"item.mcdar.ghost_cloak": "Cape fantôme",
+"item.mcdar.golem_kit": "Kit de golem",
+"item.mcdar.gong_of_weakening": "Gong de faiblesse",
+"item.mcdar.harpoon_quiver": "Carquois à harpons",
+"item.mcdar.harvester": "Moissonneur",
+"item.mcdar.iron_hide_amulet": "Amulette peau de fer",
+"item.mcdar.light_feather": "Plume légère",
+"item.mcdar.lightning_rod": "Paratonnerre",
+"item.mcdar.love_medallion": "Médaillon d'amour",
+"item.mcdar.powershaker": "Secoueur de pouvoirs",
+"item.mcdar.satchel_of_elements": "Sac d'éléments",
+"item.mcdar.satchel_of_elixirs": "Sac d'élixirs",
+"item.mcdar.satchel_of_snacks": "Sac de collations",
+"item.mcdar.shock_powder": "Poudre de choc",
+"item.mcdar.soul_healer": "Guérisseur d'âmes",
+"item.mcdar.tasty_bone": "Os savoureux",
+"item.mcdar.thundering_quiver": "Carquois tonitruant",
+"item.mcdar.torment_quiver": "Carquois de tourments",
+"item.mcdar.totem_of_regeneration": "Totem de régénération",
+"item.mcdar.totem_of_shielding": "Totem de protection",
+"item.mcdar.totem_of_soul_protection": "Totem de protection d'âme",
+"item.mcdar.updraft_tome": "Tome d'ascension",
+"item.mcdar.wind_horn": "Corne du vent",
+"item.mcdar.wonderful_wheat": "Blé merveilleux",
+
+"death.attack.electricShock": "%s a été électrocuté à mort.",
+
+"effect.mcdar.shielding": "Protection",
+"effect.mcdar.soul_protection": "Protection d'âme",
+"effect.mcdar.stunned": "Étourdi",
+
+"enchantment.mcdar.beast_boss": "Chef des bêtes",
+"enchantment.mcdar.beast_burst": "Explosion bestiale",
+"enchantment.mcdar.beast_surge": "Rafale bestiale",
+"enchantment.mcdar.cooldown": "Temps de recharge",
+
+"enchantment.mcdar.beast_boss.desc": "Augmente les dégâts infligés par vos familiers.",
+"enchantment.mcdar.beast_burst.desc": "L'utilisation d'une potion de soin provoque une explosion à l'emplacement de vos familiers, infligeant des dégâts aux ennemis à proximité.",
+"enchantment.mcdar.beast_surge.desc": "L'utilisation de votre potion de santé augmente l'attaque et la vitesse de déplacement de vos familiers pendant 10 secondes.",
+"enchantment.mcdar.cooldown.desc": "Réduit le temps de recharge des artefacts.",
+
+"tooltip_info_item.mcdar.blast_fungus_1": "Seuls les guerriers les plus courageux",
+"tooltip_info_item.mcdar.blast_fungus_2": "portent le Champignon explosif. Non",
+"tooltip_info_item.mcdar.blast_fungus_3": "seulement à cause de ses spores toxiques,",
+"tooltip_info_item.mcdar.blast_fungus_4": "mais aussi parce qu'il sent terriblement mauvais.",
+
+"tooltip_info_item.mcdar.boots_of_swiftness_1": "Des bottes bénies avec des enchantements",
+"tooltip_info_item.mcdar.boots_of_swiftness_2": "pour permettre des mouvements rapides. Utile",
+"tooltip_info_item.mcdar.boots_of_swiftness_3": "en ces temps incertains.",
+
+"tooltip_info_item.mcdar.buzzy_nest_1": "Les amateurs d'abeilles et les amoureux des abeilles",
+"tooltip_info_item.mcdar.buzzy_nest_2": "sont fans du Nid bourdonnant, mais ne vous",
+"tooltip_info_item.mcdar.buzzy_nest_3": "laissez pas tromper par les abeilles mignonnes -",
+"tooltip_info_item.mcdar.buzzy_nest_4": "elles ont une piqûre puissante !",
+
+"tooltip_info_item.mcdar.corrupted_beacon_1": "Le Faisceau corrompu renferme une immense",
+"tooltip_info_item.mcdar.corrupted_beacon_2": "puissance en son sein. Il attend le",
+"tooltip_info_item.mcdar.corrupted_beacon_3": "moment propice pour déchaîner sa colère.",
+
+"tooltip_info_item.mcdar.corrupted_seeds_1": "Une pochette de graines corrompues et empoisonnées",
+"tooltip_info_item.mcdar.corrupted_seeds_2": "qui donnent naissance à des vignes accrocheuses et épineuses,",
+"tooltip_info_item.mcdar.corrupted_seeds_3": "enchevêtrant et drainant lentement",
+"tooltip_info_item.mcdar.corrupted_seeds_4": "la vie de ses victimes.",
+
+"tooltip_info_item.mcdar.death_cap_mushroom_1": "Mangé par des guerriers audacieux avant la bataille,",
+"tooltip_info_item.mcdar.death_cap_mushroom_2": "le Champignon du Cap de la Mort entraîne les combattants",
+"tooltip_info_item.mcdar.death_cap_mushroom_3": "dans une frénésie.",
+
+"tooltip_info_item.mcdar.enchanted_grass_1": "Tout comme il existe de puissants héros",
+"tooltip_info_item.mcdar.enchanted_grass_2": "qui répondent à l'appel de la lutte, il y a",
+"tooltip_info_item.mcdar.enchanted_grass_3": "de puissants moutons enchantés qui se",
+"tooltip_info_item.mcdar.enchanted_grass_4": "joindront à la bataille lorsqu'ils seront invoqués.",
+
+"tooltip_info_item.mcdar.enchanters_tome_1": "Destiné uniquement aux Enchanteurs,",
+"tooltip_info_item.mcdar.enchanters_tome_2": "la magie de cet artefact peut invoquer",
+"tooltip_info_item.mcdar.enchanters_tome_3": "de puissants enchantements.",
+
+"tooltip_info_item.mcdar.flaming_quiver_1": "Ce carquois est rempli des flèches les plus",
+"tooltip_info_item.mcdar.flaming_quiver_2": "mortelles.",
+
+"tooltip_info_item.mcdar.ghost_cloak_1": "Les âmes piégées à l'intérieur du Manteau Fantôme",
+"tooltip_info_item.mcdar.ghost_cloak_2": "sont protectrices, mais elles dégagent un sentiment",
+"tooltip_info_item.mcdar.ghost_cloak_3": "de mélancolie."
+
+"tooltip_info_item.mcdar.golem_kit_1": "Les Golems de Fer ont toujours protégé les",
+"tooltip_info_item.mcdar.golem_kit_2": "Villageois de l'Overworld. Leurs",
+"tooltip_info_item.mcdar.golem_kit_3": "effectifs diminuent en raison",
+"tooltip_info_item.mcdar.golem_kit_4": "de la guerre de l'Arch-Illager.",
+
+"tooltip_info_item.mcdar.gong_of_weakening_1": "Cet ancien gong, marqué des",
+"tooltip_info_item.mcdar.gong_of_weakening_2": "symboles d'un royaume sans nom,",
+"tooltip_info_item.mcdar.gong_of_weakening_3": "se sent en sécurité entre vos mains",
+"tooltip_info_item.mcdar.gong_of_weakening_4": "mais émet un bourdonnement menaçant pour ceux à proximité.",
+
+"tooltip_info_item.mcdar.harpoon_quiver_1": "Ce carquois contient plusieurs harpons",
+"tooltip_info_item.mcdar.harpoon_quiver_2": "qui transpercent rapidement les ennemis",
+"tooltip_info_item.mcdar.harpoon_quiver_3": "sur terre ou sous l'eau."
+
+"tooltip_info_item.mcdar.harvester_1": "La Moissonneuse aspire les âmes",
+"tooltip_info_item.mcdar.harvester_2": "des morts avant de les libérer",
+"tooltip_info_item.mcdar.harvester_3": "dans un amas de puissance hexagonale.",
+
+"tooltip_info_item.mcdar.iron_hide_amulet_1": "L'Amulette de Peau de Fer est à la fois ancienne",
+"tooltip_info_item.mcdar.iron_hide_amulet_2": "et intemporelle. Le sable glisse mystérieusement",
+"tooltip_info_item.mcdar.iron_hide_amulet_3": "et sans fin à travers les fissures",
+"tooltip_info_item.mcdar.iron_hide_amulet_4": "dans le fer.",
+
+"tooltip_info_item.mcdar.light_feather_1": "Personne ne sait de quelle mystérieuse créature",
+"tooltip_info_item.mcdar.light_feather_2": "provient cette plume, mais elle est aussi",
+"tooltip_info_item.mcdar.light_feather_3": "belle que puissante.",
+
+"tooltip_info_item.mcdar.lightning_rod_1": "Fabriqué par les géomanciens Illagers, cet",
+"tooltip_info_item.mcdar.lightning_rod_2": "objet est enchanté avec le pouvoir d'un",
+"tooltip_info_item.mcdar.lightning_rod_3": "ciel orageux.",
+
+"tooltip_info_item.mcdar.love_medallion_1": "Un sort émane de ce bijou, enchantant",
+"tooltip_info_item.mcdar.love_medallion_2": "ceux qui sont à proximité dans une transe",
+"tooltip_info_item.mcdar.love_medallion_3": "où ils doivent protéger le porteur du",
+"tooltip_info_item.mcdar.love_medallion_4": "médaillon à tout prix.",
+
+"tooltip_info_item.mcdar.powershaker_1": "Le Powershaker est un vrai régal",
+"tooltip_info_item.mcdar.powershaker_2": "mais peut-être moins amusant",
+"tooltip_info_item.mcdar.powershaker_3": "pour vos ennemis.",
+
+"tooltip_info_item.mcdar.satchel_of_elements_1": "Des mystères entourent cette besace primordiale",
+"tooltip_info_item.mcdar.satchel_of_elements_2": "Vont-ils libérer le feu, la glace ou",
+"tooltip_info_item.mcdar.satchel_of_elements_3": "quelque chose de beaucoup moins agréable ?",
+
+"tooltip_info_item.mcdar.satchel_of_elixirs_1": "Le sacoche d'élixirs contient toujours les",
+"tooltip_info_item.mcdar.satchel_of_elixirs_2": "potions exactes dont vous avez besoin ! (Enfin, du",
+"tooltip_info_item.mcdar.satchel_of_elixirs_3": "moins les potions qu'il pense dont vous avez besoin,",
+"tooltip_info_item.mcdar.satchel_of_elixirs_4": "ce qui est quand même assez utile.)",
+
+"tooltip_info_item.mcdar.satchel_of_snacks_1": "La sacoche de collations offre une friandise",
+"tooltip_info_item.mcdar.satchel_of_snacks_2": "quand vous en avez le plus besoin !",
+
+"tooltip_info_item.mcdar.shock_powder_1": "La Poudre d'Électrocution est un outil fiable pour",
+"tooltip_info_item.mcdar.shock_powder_2": "ceux qui souhaitent prendre une sortie rapide.",
+
+"tooltip_info_item.mcdar.soul_healer_1": "L'amulette du Guérisseur d'Âmes est froide au",
+"tooltip_info_item.mcdar.soul_healer_2": " toucher et tremble de la puissance",
+"tooltip_info_item.mcdar.soul_healer_3": "des âmes. Elle est courante chez les",
+"tooltip_info_item.mcdar.soul_healer_4": "Illagers des manoirs boisés.",
+
+"tooltip_info_item.mcdar.tasty_bone_1": "Vous entendez des hurlements lointains lorsque",
+"tooltip_info_item.mcdar.tasty_bone_2": "vous tenez l'Os Savoureux dans votre main.",
+
+"tooltip_info_item.mcdar.thundering_quiver_1": "Ce carquois en cuivre canalise",
+"tooltip_info_item.mcdar.thundering_quiver_2": "la puissance de la foudre.",
+
+"tooltip_info_item.mcdar.torment_quiver_1": "Le Carquois de Tourments rayonne d'une puissance",
+"tooltip_info_item.mcdar.torment_quiver_2": "puissante puisée à la source éternelle",
+"tooltip_info_item.mcdar.torment_quiver_3": "des Morts-vivants.",
+
+"tooltip_info_item.mcdar.totem_of_regeneration_1": "Cette figurine en bois fabriquée à la main rayonne",
+"tooltip_info_item.mcdar.totem_of_regeneration_2": "d'une chaleur semblable à celle d'un feu de camp",
+"tooltip_info_item.mcdar.totem_of_regeneration_3": "crépitant, guérissant ceux qui s'approchent."
+
+"tooltip_info_item.mcdar.totem_of_shielding_1": "Ce totem possède des pouvoirs mystiques qui protègent",
+"tooltip_info_item.mcdar.totem_of_shielding_2": "ceux qui l'entourent des projectiles.",
+
+"tooltip_info_item.mcdar.totem_of_soul_protection_1": "Cette amélioration du Totem de",
+"tooltip_info_item.mcdar.totem_of_soul_protection_2": "l'Immortalité, fabriquée par les Maîtres Évocateurs,",
+"tooltip_info_item.mcdar.totem_of_soul_protection_3": "peut protéger plus que le porteur lui-même.",
+
+"tooltip_info_item.mcdar.updraft_tome_1": "Un livre ancien rempli de glyphes illisibles,",
+"tooltip_info_item.mcdar.updraft_tome_2": "vous ressentez une étrange brise en",
+"tooltip_info_item.mcdar.updraft_tome_3": "tournant les pages.",
+
+"tooltip_info_item.mcdar.wind_horn_1": "Lorsque le Cor du Vent résonne à travers",
+"tooltip_info_item.mcdar.wind_horn_2": "les forêts de l'Overworld, les créatures",
+"tooltip_info_item.mcdar.wind_horn_3": "de la nuit tremblent de peur.",
+
+"tooltip_info_item.mcdar.wonderful_wheat_1": "Cet objet dégage une légère odeur de",
+"tooltip_info_item.mcdar.wonderful_wheat_2": "champ ouvert, de pain frais cuit",
+"tooltip_info_item.mcdar.wonderful_wheat_3": "et de cultures fraîchement coupées."
+}
